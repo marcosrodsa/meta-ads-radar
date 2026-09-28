@@ -44,6 +44,25 @@ ads = ads.map(ad => {
     scaleDesc = 'Ativo continuamente há vários dias';
   }
 
+  // Extração robusta de URLs de mídia remotas da CDN do Meta
+  const snap = ad.raw?.snapshot || {};
+  const firstCard = snap.cards?.[0] || {};
+  const firstVid = snap.videos?.[0] || {};
+  const firstImg = snap.images?.[0] || {};
+
+  const remoteVideoUrl = ad.media?.videoUrl || 
+    (ad.media?.urls && ad.media.urls.find(u => u && (u.includes('.mp4') || u.includes('video.')))) ||
+    firstCard.video_hd_url || firstCard.video_sd_url ||
+    firstVid.video_hd_url || firstVid.video_sd_url || '';
+
+  const videoPoster = firstCard.video_preview_image_url || firstVid.video_preview_image_url || 
+    snap.page_profile_picture_url || '';
+
+  const remoteImageUrl = (ad.media?.urls && ad.media.urls.find(u => u && !u.includes('.mp4') && !u.includes('video.'))) ||
+    firstCard.resized_image_url || firstCard.original_image_url ||
+    firstImg.resized_image_url || firstImg.original_image_url ||
+    videoPoster || '';
+
   // Correspondência com produtos da EduPharma
   const isCreatina = (ad.searchCategory || '').includes('Creatina') || 
     ((ad.headline || '') + ' ' + (ad.primaryText || '')).toLowerCase().includes('creatina');
@@ -58,7 +77,10 @@ ads = ads.map(ad => {
     scaleStatus,
     scaleBadge,
     scaleDesc,
-    edupharmaMatch
+    edupharmaMatch,
+    remoteVideoUrl,
+    remoteImageUrl,
+    videoPoster
   };
 });
 
@@ -375,6 +397,30 @@ const html = `<!DOCTYPE html>
       navigator.clipboard.writeText(txt).then(() => toast('📋 Copy copiada!'));
     }
 
+    function handleMediaError(videoEl, snapshotUrl, poster) {
+      const box = videoEl.parentElement;
+      if (!box) return;
+      box.innerHTML = 
+        '<div style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:' + (poster ? 'url(' + poster + ') center/cover no-repeat' : '#0a0f1d') + ';padding:20px;text-align:center;">' +
+          '<div style="background:rgba(0,0,0,0.85);backdrop-filter:blur(8px);padding:14px 18px;border-radius:12px;border:1px solid rgba(255,255,255,0.15);">' +
+            '<div style="font-size:12px;color:#cbd5e1;margin-bottom:8px;font-weight:600;">🎬 Vídeo Meta Ads</div>' +
+            '<a href="' + snapshotUrl + '" target="_blank" style="display:inline-flex;align-items:center;gap:6px;background:#06b6d4;color:#000;font-weight:800;font-size:12px;padding:8px 14px;border-radius:8px;text-decoration:none;">▶️ Assistir no Ad Library ↗</a>' +
+          '</div>' +
+        '</div>';
+    }
+
+    function handleImgError(imgEl, snapshotUrl) {
+      const box = imgEl.parentElement;
+      if (!box) return;
+      box.innerHTML = 
+        '<div style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#0a0f1d;padding:20px;text-align:center;">' +
+          '<div style="background:rgba(0,0,0,0.85);backdrop-filter:blur(8px);padding:14px 18px;border-radius:12px;border:1px solid rgba(255,255,255,0.15);">' +
+            '<div style="font-size:12px;color:#cbd5e1;margin-bottom:8px;font-weight:600;">🖼️ Imagem Meta Ads</div>' +
+            '<a href="' + snapshotUrl + '" target="_blank" style="display:inline-flex;align-items:center;gap:6px;background:#06b6d4;color:#000;font-weight:800;font-size:12px;padding:8px 14px;border-radius:8px;text-decoration:none;">🔍 Ver Anúncio ↗</a>' +
+          '</div>' +
+        '</div>';
+    }
+
     function render() {
       const grid = document.getElementById('ads-grid');
       grid.innerHTML = '';
@@ -395,7 +441,7 @@ const html = `<!DOCTYPE html>
         if (activeFilter === 'testing') return ad.scaleStatus === 'TESTE';
         if (activeFilter === 'sono') return ad.edupharmaMatch.includes('Sono');
         if (activeFilter === 'creatina') return ad.edupharmaMatch.includes('Creatina');
-        if (activeFilter === 'video') return ad.media.type === 'video' || ad.media.localVideoUrl;
+        if (activeFilter === 'video') return ad.remoteVideoUrl || ad.media?.type === 'video' || ad.media?.localVideoUrl;
         if (activeFilter === 'whatsapp') return (ad.landingPageUrl || '').includes('whatsapp') || (ad.ctaText || '').toLowerCase().includes('whatsapp');
         return true;
       });
@@ -405,33 +451,38 @@ const html = `<!DOCTYPE html>
         return;
       }
 
+      const isLocalHost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+
       items.forEach((ad) => {
         const origIdx = DATA.indexOf(ad);
         const card = document.createElement('div');
         card.className = 'card';
 
-        const localVid = ad.media.localVideoUrl;
-        const remoteVid = ad.media.videoUrl || (ad.media.urls && ad.media.urls[0]);
-        const isVid = (ad.media.type === 'video' || localVid) && (localVid || remoteVid);
-        const videoSrc = localVid || remoteVid;
+        const localVid = ad.media?.localVideoUrl;
+        const remoteVid = ad.remoteVideoUrl || ad.media?.videoUrl || (ad.media?.urls && ad.media.urls.find(u => u && (u.includes('.mp4') || u.includes('video.'))));
+        const videoSrc = isLocalHost ? (localVid || remoteVid) : (remoteVid || localVid);
 
-        const localImg = ad.media.localImageUrl;
-        const remoteImg = (ad.media.urls && ad.media.urls[0]);
-        const imgSrc = localImg || remoteImg;
+        const localImg = ad.media?.localImageUrl;
+        const remoteImg = ad.remoteImageUrl || (ad.media?.urls && ad.media.urls.find(u => u && !u.includes('.mp4') && !u.includes('video.'))) || ad.pageProfilePicture;
+        const imgSrc = isLocalHost ? (localImg || remoteImg) : (remoteImg || localImg);
+
+        const isVid = !!(videoSrc || ad.media?.type === 'video');
 
         let mHtml = '';
-        if (isVid) {
+        if (isVid && videoSrc) {
           mHtml = '<div class="media-box">' +
-            '<video src="' + videoSrc + '" controls playsinline preload="metadata"></video>' +
-            '<div class="media-tag">🎥 ' + (localVid ? 'VÍDEO MP4 LOCAL' : 'VÍDEO MP4') + '</div>' +
+            '<video src="' + videoSrc + '" poster="' + (ad.videoPoster || '') + '" controls playsinline preload="metadata" referrerpolicy="no-referrer" onerror="handleMediaError(this, \\'' + ad.adSnapshotUrl + '\\', \\'' + (ad.videoPoster || '') + '\\')"></video>' +
+            '<div class="media-tag">🎥 ' + (isLocalHost && localVid ? 'VÍDEO MP4 LOCAL' : 'VÍDEO MP4') + '</div>' +
           '</div>';
         } else if (imgSrc) {
           mHtml = '<div class="media-box">' +
-            '<img src="' + imgSrc + '" loading="lazy" />' +
-            '<div class="media-tag">' + (ad.media.type === 'carousel' ? '🖼️ CARROSSEL' : '🖼️ IMAGEM') + '</div>' +
+            '<img src="' + imgSrc + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleImgError(this, \\'' + ad.adSnapshotUrl + '\\')" />' +
+            '<div class="media-tag">' + (ad.media?.type === 'carousel' ? '🖼️ CARROSSEL' : '🖼️ IMAGEM') + '</div>' +
           '</div>';
         } else {
-          mHtml = '<div class="media-box" style="color:var(--text-muted);font-size:12px;">Sem mídia direta</div>';
+          mHtml = '<div class="media-box" style="color:var(--text-muted);font-size:12px;">' +
+            '<a class="btn-act btn-meta" href="' + ad.adSnapshotUrl + '" target="_blank">🔍 Ver Mídia no Ad Library ↗</a>' +
+          '</div>';
         }
 
         const head = ad.headline || ad.caption || ad.pageName;
