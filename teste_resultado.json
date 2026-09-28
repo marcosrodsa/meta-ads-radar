@@ -1,0 +1,492 @@
+{
+  "query": "whey protein",
+  "country": "BR",
+  "totalFound": 3,
+  "scrapedAt": "2026-09-28T20:08:36.838Z",
+  "ads": [
+    {
+      "id": "930718056392344",
+      "pageName": "Monster Fiber ",
+      "pageId": "268424303025881",
+      "pageProfileUri": "https://www.facebook.com/61558269486252/",
+      "pageProfilePicture": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/828127949_1055924073981243_6124540508374547819_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3XO4gm0_WAwQ7kNvwFqpDrW&_nc_oc=Adr4DFOyWJGa5ZZuSMMMxJplGJCRpT3wsgAT1TUcHc1UGVVMiVxxKbGqZ5cBJGf9ezM&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQO0xAvV__O4sb1bZ2cEJn9d8j0ubvxwuskfxv5obv8bgQ&oe=6AC08D45",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "ctaText": "No button",
+      "ctaType": "NO_BUTTON",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=930718056392344",
+      "media": {
+        "type": "image",
+        "urls": [
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/828653109_1760922021698785_5490969035072504494_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9Ge89FJwcIEQ7kNvwGApTlR&_nc_oc=AdpyX3NosP-o_0Ad5krvxfLuw-J9nM270CRSpGlat93p3S9rBttrlASSHMgw16Fvdx8&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQO3K23mgI9OLX6Ul91cpi5o7fA5M1nqto6NFmOEZunxww&oe=6AC08567"
+        ]
+      },
+      "pageCategories": [
+        "Nutrition"
+      ],
+      "raw": {
+        "ad_archive_id": "930718056392344",
+        "collation_count": 1,
+        "collation_id": "1450372916948178",
+        "is_active": true,
+        "page_id": "268424303025881",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "268424303025881",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/61558269486252/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Monster Fiber ",
+          "page_profile_picture_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/828127949_1055924073981243_6124540508374547819_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3XO4gm0_WAwQ7kNvwFqpDrW&_nc_oc=Adr4DFOyWJGa5ZZuSMMMxJplGJCRpT3wsgAT1TUcHc1UGVVMiVxxKbGqZ5cBJGf9ezM&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQO0xAvV__O4sb1bZ2cEJn9d8j0ubvxwuskfxv5obv8bgQ&oe=6AC08D45",
+          "event": null,
+          "caption": null,
+          "cta_text": "No button",
+          "cards": [],
+          "body": null,
+          "cta_type": "NO_BUTTON",
+          "display_format": "IMAGE",
+          "link_description": null,
+          "link_url": null,
+          "images": [
+            {
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/828653109_1760922021698785_5490969035072504494_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9Ge89FJwcIEQ7kNvwGApTlR&_nc_oc=AdpyX3NosP-o_0Ad5krvxfLuw-J9nM270CRSpGlat93p3S9rBttrlASSHMgw16Fvdx8&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQO3K23mgI9OLX6Ul91cpi5o7fA5M1nqto6NFmOEZunxww&oe=6AC08567",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/829447381_1330726965649391_380720169610975492_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1n6mfLHpRqgQ7kNvwF7KNnV&_nc_oc=AdpmylhWLQGxmOk_Rd0LV2zcUO9tjT5iWKyJKorkUkWxxSGjRQdnm3QcRcxpYJ1qQDg&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQNsoXxny_XNZyDJXnlyDHVlu5hexR6wkxQyYoYsCbyyiA&oe=6AC08FB9",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "page_categories": [
+            "Nutrition"
+          ],
+          "page_like_count": 79,
+          "title": null,
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Monster Fiber ",
+        "impressions_with_index": {
+          "impressions_text": null,
+          "impressions_index": -1
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 5375,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "993767227072823",
+      "pageName": "Nutri-on Suplementos",
+      "pageId": "678050112064021",
+      "pageProfileUri": "https://www.facebook.com/nutrionsuplemento/",
+      "pageProfilePicture": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/825292930_1440477624688599_6918460175672118962_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XTrxbpabNIIQ7kNvwGn6qOl&_nc_oc=AdoF0dPUd1HclybKJjZH2Y6eosINaBSWlQgmyX73CYnoUY0kytfkoHKRjaSevMOm50M&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQOr35qYBxptgW-nhnH00OSf-P6OhoBs1jF8OSWRB_CyUQ&oe=6AC0ACC0",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "WHATSAPP"
+      ],
+      "primaryText": "Seu suplemento acabou? Então essa condição é pra você. 🔥\nNa Nutri-on, tem creatina a partir de R$ 44 e você ainda pode garantir até 20% OFF no whey levando seu pote vazio.",
+      "headline": "Creatina a partir de R$ 44 + até 20% OFF",
+      "caption": "WhatsApp",
+      "linkDescription": "Não jogue seu pote vazio fora. Ele pode valer desconto.\nAproveite até 20% OFF no whey com seu pote vazio e encontre creatina a partir de R$ 44 na Nutri-on.",
+      "ctaText": "Send WhatsApp message",
+      "ctaType": "WHATSAPP_MESSAGE",
+      "landingPageUrl": "https://api.whatsapp.com/send",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=993767227072823",
+      "media": {
+        "type": "image",
+        "urls": [
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/825292238_887717650961603_1184801410947459863_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9ZC48R0B4ZAQ7kNvwHmfAXO&_nc_oc=AdoI7ZbkoYzdLhjTWf8vV0trohoAvHZTRewNtjPrCYVbbTDymUVeEiWfi2EOjGxIkaw&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPDKpH5lmUuHAH1rBs1reJyU9eq3ZwrNNLwXGl_oeKluA&oe=6AC09EA4"
+        ]
+      },
+      "pageCategories": [
+        "Real Estate",
+        "Business",
+        "Vitamins/supplements"
+      ],
+      "raw": {
+        "ad_archive_id": "993767227072823",
+        "collation_count": null,
+        "collation_id": null,
+        "is_active": true,
+        "page_id": "678050112064021",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "678050112064021",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/nutrionsuplemento/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Nutri-on Suplementos",
+          "page_profile_picture_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/825292930_1440477624688599_6918460175672118962_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XTrxbpabNIIQ7kNvwGn6qOl&_nc_oc=AdoF0dPUd1HclybKJjZH2Y6eosINaBSWlQgmyX73CYnoUY0kytfkoHKRjaSevMOm50M&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQOr35qYBxptgW-nhnH00OSf-P6OhoBs1jF8OSWRB_CyUQ&oe=6AC0ACC0",
+          "event": null,
+          "caption": "WhatsApp",
+          "cta_text": "Send WhatsApp message",
+          "cards": [],
+          "body": {
+            "text": "Seu suplemento acabou? Então essa condição é pra você. 🔥\nNa Nutri-on, tem creatina a partir de R$ 44 e você ainda pode garantir até 20% OFF no whey levando seu pote vazio."
+          },
+          "cta_type": "WHATSAPP_MESSAGE",
+          "display_format": "IMAGE",
+          "link_description": "Não jogue seu pote vazio fora. Ele pode valer desconto.\nAproveite até 20% OFF no whey com seu pote vazio e encontre creatina a partir de R$ 44 na Nutri-on.",
+          "link_url": "https://api.whatsapp.com/send",
+          "images": [
+            {
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/825292238_887717650961603_1184801410947459863_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9ZC48R0B4ZAQ7kNvwHmfAXO&_nc_oc=AdoI7ZbkoYzdLhjTWf8vV0trohoAvHZTRewNtjPrCYVbbTDymUVeEiWfi2EOjGxIkaw&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPDKpH5lmUuHAH1rBs1reJyU9eq3ZwrNNLwXGl_oeKluA&oe=6AC09EA4",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/825292683_2530575014124133_5741921151454764106_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bnXPmMnKF1wQ7kNvwEWv4YW&_nc_oc=AdqOMYKXiIeJOyUnhGk7aLM9527MrbgfeETYawV7n1WwCvXmo3xg-_DuV2xuEhPa-uw&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQMp9jHBrlT_i7laTSWR-pgu8GNv7Q5BoFFV0uag4sCKKw&oe=6AC09192",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "page_categories": [
+            "Real Estate",
+            "Business",
+            "Vitamins/supplements"
+          ],
+          "page_like_count": 37,
+          "title": "Creatina a partir de R$ 44 + até 20% OFF",
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Nutri-on Suplementos",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 6500,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "1076234241858517",
+      "pageName": "Life Sense Nutrition",
+      "pageId": "104813682300408",
+      "pageProfileUri": "https://www.facebook.com/LifeSenseNutrition/",
+      "pageProfilePicture": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816996364_1108969761695594_6643300150300105721_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SBc1CyezaDMQ7kNvwGIniqB&_nc_oc=AdoAqNYo_S17YXqEQlkpLThiTa0BKxjSOLI1dXy6JFDTTPOwUeE5srTWim_yor6t7i8&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPrL_cG2upartdILIENvyJqujtMzPXc0MRyLt2KxbwNOQ&oe=6AC09AE3",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "WHATSAPP",
+        "THREADS"
+      ],
+      "primaryText": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+      "headline": "Life Sense Nutrition",
+      "caption": "lifesensenutrition.com.br",
+      "ctaText": "Shop now",
+      "ctaType": "SHOP_NOW",
+      "landingPageUrl": "https://lifesensenutrition.com.br/produtos/kit-feminino-2-0-life-sense-nutrition-whey-protein-900g-colageno-com-acido-hialuronico-creatina-100-pura-300g-coqueteleira-1s83d/?_gl=1*14h14zl*_gcl_au*ODExNjM1MDI4LjE3ODg4ODkwNjYuMTM5MTUzNjk0My4xNzg5NzY1MzI3LjE3ODk3NjUzMjcuMTUyNTI5ODM3My4xNzg5NzY1MzI3LjE3ODk3NjUzMjc.*_ga*ODUzOTE1NjMzLjE3NzI0NzkyNTM.*_ga_JNEFBWFYPY*czE3ODk3NjUzMjYkbzQ5JGcxJHQxNzg5NzY1MzI5JGo1NyRsMCRoMTE5MzUwNDMxMQ..",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=1076234241858517",
+      "media": {
+        "type": "carousel",
+        "urls": [
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816996372_4728790604110726_4121797412181982715_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rOGD21WgqpgQ7kNvwGQ655z&_nc_oc=AdoIcejGEMG2NyVpjT12rJ9m5x_lIctRqbIufhmI59-JMvebunly2TIrTiWjl5BQIm0&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQNl4HOt0PdGW8HSbcX5TsGxSQFuYCNwg1DMWClI2qG93Q&oe=6AC08C44",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816996372_4728790604110726_4121797412181982715_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rOGD21WgqpgQ7kNvwGQ655z&_nc_oc=AdoIcejGEMG2NyVpjT12rJ9m5x_lIctRqbIufhmI59-JMvebunly2TIrTiWjl5BQIm0&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQOs-qM1nSJSIhBYJ55pvUORkYq6IJ1LfjcrsXilNrj5Hg&oe=6AC08C44",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/799263715_1560206625413891_950161360737298665_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ueVsFMdpaCYQ7kNvwGu0A8d&_nc_oc=AdotXiZIUp9Z53OSpumX51Kl0O_wzRIY1DTi074_DIobgRGi55mk2oNH3S1wq_YabGg&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPDAUihMK8Gov18qK3wVz6pm7hNhAyCKMreGYZIpwODbw&oe=6AC0ABAE",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/799263715_1560206625413891_950161360737298665_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ueVsFMdpaCYQ7kNvwGu0A8d&_nc_oc=AdotXiZIUp9Z53OSpumX51Kl0O_wzRIY1DTi074_DIobgRGi55mk2oNH3S1wq_YabGg&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQMtCwC9vfgk0ECR_B3CuHRxXiR18T3BoGwc64PruAWoqw&oe=6AC0ABAE",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814971283_1381608320846435_1760255236141843943_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ztwhq7a5xQQ7kNvwEpixwG&_nc_oc=AdqEy0IxaxNhiLdDC3qgNYkUb1fk1CyTiTBpf8R-5FBJMq3S6fSLPpB8nIzbQV_CfFo&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQNx3qUpkxcNnQyELjgL0taFFWKMxwYdstoE4pP3sC4ZWA&oe=6AC0AE78",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814971283_1381608320846435_1760255236141843943_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ztwhq7a5xQQ7kNvwEpixwG&_nc_oc=AdqEy0IxaxNhiLdDC3qgNYkUb1fk1CyTiTBpf8R-5FBJMq3S6fSLPpB8nIzbQV_CfFo&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPpejYddOMdjiI3QHyv-FP8Ry08LGyqFH8KA90J0ejftA&oe=6AC0AE78",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814818160_1659415342277838_3708953989744729527_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GPQZKrh9iwQ7kNvwFlsFHg&_nc_oc=AdrkW6Yn5BPss73KuyaTzCjTF9eUKnKZYi5XWsZq0nLo8fuhedWu0B8qcl-CSPkOW1g&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQMBhNKUxHwIiR0WLa_ZRNbnExO53iND8xpLuMPwM67YgQ&oe=6AC09C21",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814818160_1659415342277838_3708953989744729527_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GPQZKrh9iwQ7kNvwFlsFHg&_nc_oc=AdrkW6Yn5BPss73KuyaTzCjTF9eUKnKZYi5XWsZq0nLo8fuhedWu0B8qcl-CSPkOW1g&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQOdhATW9tvCQkWiBDIK2YY9aruuPza6cWnaHVm93GrvxQ&oe=6AC09C21",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816953189_1615141406923767_1402542637800046067_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTcSz9cGlRsQ7kNvwHhrGUB&_nc_oc=Ado3zUfLUVRebNZjY7jsyJ6o36KmxQ7383AMhbt4FXX70Wxd7enB4-3mUMpi9nVWFJY&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQN9NSMkcfRyQLdD3kiwYgyQsT0bLYqRtddiRczMX5J_ng&oe=6AC09F65",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816953189_1615141406923767_1402542637800046067_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTcSz9cGlRsQ7kNvwHhrGUB&_nc_oc=Ado3zUfLUVRebNZjY7jsyJ6o36KmxQ7383AMhbt4FXX70Wxd7enB4-3mUMpi9nVWFJY&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPT-g38SePU5nbY5-oHkI_fuMjUjnR90Sdn1U2KpHcaCA&oe=6AC09F65",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/794413789_873050392443016_708965921045896933_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6WrDLRxCCIoQ7kNvwEVfHBj&_nc_oc=AdrqE5cB_mEyd3KZkvBb4sOnKQaepMXa1soN9kBQea257sraOpdIfGoNVjoYGJWhh2w&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPIESzbIYVhPDHqRaeYj1rEsRYDNJGPVcamwn46KvAC4Q&oe=6AC08DCD",
+          "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/794413789_873050392443016_708965921045896933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6WrDLRxCCIoQ7kNvwEVfHBj&_nc_oc=AdrqE5cB_mEyd3KZkvBb4sOnKQaepMXa1soN9kBQea257sraOpdIfGoNVjoYGJWhh2w&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQN8winoPUpsObbX0lGpir1rg0ME1SD9FjCLDY68du6Bkw&oe=6AC08DCD"
+        ]
+      },
+      "pageCategories": [
+        "Vitamins/supplements"
+      ],
+      "raw": {
+        "ad_archive_id": "1076234241858517",
+        "collation_count": null,
+        "collation_id": null,
+        "is_active": true,
+        "page_id": "104813682300408",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "104813682300408",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/LifeSenseNutrition/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Life Sense Nutrition",
+          "page_profile_picture_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816996364_1108969761695594_6643300150300105721_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SBc1CyezaDMQ7kNvwGIniqB&_nc_oc=AdoAqNYo_S17YXqEQlkpLThiTa0BKxjSOLI1dXy6JFDTTPOwUeE5srTWim_yor6t7i8&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPrL_cG2upartdILIENvyJqujtMzPXc0MRyLt2KxbwNOQ&oe=6AC09AE3",
+          "event": null,
+          "caption": "lifesensenutrition.com.br",
+          "cta_text": "Shop now",
+          "cards": [
+            {
+              "body": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+              "cta_type": "SHOP_NOW",
+              "caption": "lifesensenutrition.com.br",
+              "link_description": "KIT FEMININO LIFE SENSE NUTRITION 💗 Nutrição, beleza, força e praticidade para acompanhar sua rotina. O Kit Feminino Life Sense foi pensado para mulh...",
+              "link_url": "https://lifesensenutrition.com.br/produtos/kit-turbo-sense-whey-100-creatina-300gr-coqueteleira/?variant=1433005663",
+              "title": "Life Sense Nutrition",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816996372_4728790604110726_4121797412181982715_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rOGD21WgqpgQ7kNvwGQ655z&_nc_oc=AdoIcejGEMG2NyVpjT12rJ9m5x_lIctRqbIufhmI59-JMvebunly2TIrTiWjl5BQIm0&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQNl4HOt0PdGW8HSbcX5TsGxSQFuYCNwg1DMWClI2qG93Q&oe=6AC08C44",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816996372_4728790604110726_4121797412181982715_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rOGD21WgqpgQ7kNvwGQ655z&_nc_oc=AdoIcejGEMG2NyVpjT12rJ9m5x_lIctRqbIufhmI59-JMvebunly2TIrTiWjl5BQIm0&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQOs-qM1nSJSIhBYJ55pvUORkYq6IJ1LfjcrsXilNrj5Hg&oe=6AC08C44",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+              "cta_type": "SHOP_NOW",
+              "caption": "lifesensenutrition.com.br",
+              "link_description": "KIT FEMININO LIFE SENSE NUTRITION 💗 Nutrição, beleza, força e praticidade para acompanhar sua rotina. O Kit Feminino Life Sense foi pensado para mulh...",
+              "link_url": "https://lifesensenutrition.com.br/produtos/whey-100/",
+              "title": "Life Sense Nutrition",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/799263715_1560206625413891_950161360737298665_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ueVsFMdpaCYQ7kNvwGu0A8d&_nc_oc=AdotXiZIUp9Z53OSpumX51Kl0O_wzRIY1DTi074_DIobgRGi55mk2oNH3S1wq_YabGg&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPDAUihMK8Gov18qK3wVz6pm7hNhAyCKMreGYZIpwODbw&oe=6AC0ABAE",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/799263715_1560206625413891_950161360737298665_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ueVsFMdpaCYQ7kNvwGu0A8d&_nc_oc=AdotXiZIUp9Z53OSpumX51Kl0O_wzRIY1DTi074_DIobgRGi55mk2oNH3S1wq_YabGg&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQMtCwC9vfgk0ECR_B3CuHRxXiR18T3BoGwc64PruAWoqw&oe=6AC0ABAE",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+              "cta_type": "SHOP_NOW",
+              "caption": "lifesensenutrition.com.br",
+              "link_description": "KIT FEMININO LIFE SENSE NUTRITION 💗 Nutrição, beleza, força e praticidade para acompanhar sua rotina. O Kit Feminino Life Sense foi pensado para mulh...",
+              "link_url": "https://lifesensenutrition.com.br/produtos/creatina-100-pura-300gr/",
+              "title": "Life Sense Nutrition",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814971283_1381608320846435_1760255236141843943_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ztwhq7a5xQQ7kNvwEpixwG&_nc_oc=AdqEy0IxaxNhiLdDC3qgNYkUb1fk1CyTiTBpf8R-5FBJMq3S6fSLPpB8nIzbQV_CfFo&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQNx3qUpkxcNnQyELjgL0taFFWKMxwYdstoE4pP3sC4ZWA&oe=6AC0AE78",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814971283_1381608320846435_1760255236141843943_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ztwhq7a5xQQ7kNvwEpixwG&_nc_oc=AdqEy0IxaxNhiLdDC3qgNYkUb1fk1CyTiTBpf8R-5FBJMq3S6fSLPpB8nIzbQV_CfFo&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPpejYddOMdjiI3QHyv-FP8Ry08LGyqFH8KA90J0ejftA&oe=6AC0AE78",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+              "cta_type": "SHOP_NOW",
+              "caption": "lifesensenutrition.com.br",
+              "link_description": "KIT FEMININO LIFE SENSE NUTRITION 💗 Nutrição, beleza, força e praticidade para acompanhar sua rotina. O Kit Feminino Life Sense foi pensado para mulh...",
+              "link_url": "https://lifesensenutrition.com.br/produtos/whey-100/?variant=1430089516",
+              "title": "Life Sense Nutrition",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814818160_1659415342277838_3708953989744729527_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GPQZKrh9iwQ7kNvwFlsFHg&_nc_oc=AdrkW6Yn5BPss73KuyaTzCjTF9eUKnKZYi5XWsZq0nLo8fuhedWu0B8qcl-CSPkOW1g&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQMBhNKUxHwIiR0WLa_ZRNbnExO53iND8xpLuMPwM67YgQ&oe=6AC09C21",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/814818160_1659415342277838_3708953989744729527_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GPQZKrh9iwQ7kNvwFlsFHg&_nc_oc=AdrkW6Yn5BPss73KuyaTzCjTF9eUKnKZYi5XWsZq0nLo8fuhedWu0B8qcl-CSPkOW1g&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQOdhATW9tvCQkWiBDIK2YY9aruuPza6cWnaHVm93GrvxQ&oe=6AC09C21",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+              "cta_type": "SHOP_NOW",
+              "caption": "lifesensenutrition.com.br",
+              "link_description": "KIT FEMININO LIFE SENSE NUTRITION 💗 Nutrição, beleza, força e praticidade para acompanhar sua rotina. O Kit Feminino Life Sense foi pensado para mulh...",
+              "link_url": "https://lifesensenutrition.com.br/produtos/mix-protein-premium-pre-treino-tuned-creatina-100-pura/?variant=1436741056",
+              "title": "Life Sense Nutrition",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816953189_1615141406923767_1402542637800046067_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTcSz9cGlRsQ7kNvwHhrGUB&_nc_oc=Ado3zUfLUVRebNZjY7jsyJ6o36KmxQ7383AMhbt4FXX70Wxd7enB4-3mUMpi9nVWFJY&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQN9NSMkcfRyQLdD3kiwYgyQsT0bLYqRtddiRczMX5J_ng&oe=6AC09F65",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/816953189_1615141406923767_1402542637800046067_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTcSz9cGlRsQ7kNvwHhrGUB&_nc_oc=Ado3zUfLUVRebNZjY7jsyJ6o36KmxQ7383AMhbt4FXX70Wxd7enB4-3mUMpi9nVWFJY&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPT-g38SePU5nbY5-oHkI_fuMjUjnR90Sdn1U2KpHcaCA&oe=6AC09F65",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition.",
+              "cta_type": "SHOP_NOW",
+              "caption": "lifesensenutrition.com.br",
+              "link_description": "KIT FEMININO LIFE SENSE NUTRITION 💗 Nutrição, beleza, força e praticidade para acompanhar sua rotina. O Kit Feminino Life Sense foi pensado para mulh...",
+              "link_url": "https://lifesensenutrition.com.br/produtos/mix-protein-premium-pre-treino-tuned-creatina-100-pura/?variant=1436741040",
+              "title": "Life Sense Nutrition",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/794413789_873050392443016_708965921045896933_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6WrDLRxCCIoQ7kNvwEVfHBj&_nc_oc=AdrqE5cB_mEyd3KZkvBb4sOnKQaepMXa1soN9kBQea257sraOpdIfGoNVjoYGJWhh2w&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQPIESzbIYVhPDHqRaeYj1rEsRYDNJGPVcamwn46KvAC4Q&oe=6AC08DCD",
+              "resized_image_url": "https://scontent.fros1-1.fna.fbcdn.net/v/t39.35426-6/794413789_873050392443016_708965921045896933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6WrDLRxCCIoQ7kNvwEVfHBj&_nc_oc=AdrqE5cB_mEyd3KZkvBb4sOnKQaepMXa1soN9kBQea257sraOpdIfGoNVjoYGJWhh2w&_nc_zt=14&_nc_ht=scontent.fros1-1.fna&_nc_gid=130UBJiG-uVtcXE5xt1DYQ&_nc_ss=7d289&oh=00_AQN8winoPUpsObbX0lGpir1rg0ME1SD9FjCLDY68du6Bkw&oe=6AC08DCD",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "body": {
+            "text": "🔥 Seu kit completo para cuidar da rotina, dos treinos e do bem-estar!\nWhey Protein para complementar a ingestão de proteínas, creatina para apoiar o desempenho nos treinos e colágeno com ácido hialurônico para complementar sua rotina de cuidados. 💪✨\nE tem condição especial:\nDe R$199,90 por apenas R$168,90! 😍\n🚚 Frete grátis para o Sudeste\n💳 Até 6x sem juros\nTudo isso em um único kit, direto da Life Sense Nutrition."
+          },
+          "cta_type": "SHOP_NOW",
+          "display_format": "DPA",
+          "link_description": null,
+          "link_url": "https://lifesensenutrition.com.br/produtos/kit-feminino-2-0-life-sense-nutrition-whey-protein-900g-colageno-com-acido-hialuronico-creatina-100-pura-300g-coqueteleira-1s83d/?_gl=1*14h14zl*_gcl_au*ODExNjM1MDI4LjE3ODg4ODkwNjYuMTM5MTUzNjk0My4xNzg5NzY1MzI3LjE3ODk3NjUzMjcuMTUyNTI5ODM3My4xNzg5NzY1MzI3LjE3ODk3NjUzMjc.*_ga*ODUzOTE1NjMzLjE3NzI0NzkyNTM.*_ga_JNEFBWFYPY*czE3ODk3NjUzMjYkbzQ5JGcxJHQxNzg5NzY1MzI5JGo1NyRsMCRoMTE5MzUwNDMxMQ..",
+          "images": [],
+          "page_categories": [
+            "Vitamins/supplements"
+          ],
+          "page_like_count": 392,
+          "title": "Life Sense Nutrition",
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Life Sense Nutrition",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 6400,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    }
+  ]
+}

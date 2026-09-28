@@ -1,0 +1,1266 @@
+{
+  "query": "creatina monohidratada",
+  "country": "BR",
+  "totalFound": 8,
+  "scrapedAt": "2026-09-28T21:45:40.276Z",
+  "ads": [
+    {
+      "id": "2084351088914676",
+      "pageName": "Drogaria Best Farma",
+      "pageId": "108971358576240",
+      "pageProfileUri": "https://www.facebook.com/drogariabestfarmadf/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329302_2129161177993605_6525901908470524403_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RAwkZvVZOT4Q7kNvwGnvOOr&_nc_oc=Adq3J5zP-PyGqqRPj8XPoVexNuYhxOXiMT4NQ8Q-oYKmgTNGXyrHtDdVpoH0-MxLmWO0XNSIbdiYvETtLYqao5_a&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMxG9V01wBgvg0OXrsHXSHFp1Tj7n60YsfOcl6uQbTz9g&oe=6AC0CBA1",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "WHATSAPP"
+      ],
+      "primaryText": "🚨 CEILÂNDIA, A OPERAÇÃO FECHA MÊS COMEÇOU!\nA Drogaria Best Farma preparou preços especiais para você fechar o mês economizando de verdade! 🔥\nTem Lola Cosmetics, Haskell, creatina, cuidados pessoais e muito mais com descontos que valem a pena.\n👉 Arraste para o lado, confira todas as ofertas e escolha as suas!\n📲 Peça pelo WhatsApp: (61) 99610-6896\n⏰ Ofertas válidas de 28/10 a 30/10, enquanto durarem os estoques.",
+      "headline": "🚨 Fecha Mês Best Farma: ofertas imperdíveis!",
+      "caption": "WhatsApp",
+      "linkDescription": "🔥 É só até 30/10! Confira as ofertas da Operação Fecha Mês Best Farma.",
+      "ctaText": "Shop now",
+      "ctaType": "SHOP_NOW",
+      "landingPageUrl": "https://api.whatsapp.com/send",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=2084351088914676",
+      "media": {
+        "type": "image",
+        "urls": [
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/830151679_2836766096708676_2606079646195971211_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bOb1Q5TRGysQ7kNvwHxt-76&_nc_oc=Adri7TYFYbBBnYKZT5FT3cLABGuKZTJj-EboAySuiyyKcBPl3hQKbCwxl8U_hGIdKARMprRq2TuvLA6hezIabAJr&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOTY8iCQdpvBSvKLDKSj-7WQGQGoN_ZEFjkGFCmvyOB5w&oe=6AC0BB65"
+        ]
+      },
+      "pageCategories": [
+        "Health & Beauty"
+      ],
+      "raw": {
+        "ad_archive_id": "2084351088914676",
+        "collation_count": 2,
+        "collation_id": "4571801446432854",
+        "is_active": true,
+        "page_id": "108971358576240",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "108971358576240",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/drogariabestfarmadf/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Drogaria Best Farma",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329302_2129161177993605_6525901908470524403_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RAwkZvVZOT4Q7kNvwGnvOOr&_nc_oc=Adq3J5zP-PyGqqRPj8XPoVexNuYhxOXiMT4NQ8Q-oYKmgTNGXyrHtDdVpoH0-MxLmWO0XNSIbdiYvETtLYqao5_a&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMxG9V01wBgvg0OXrsHXSHFp1Tj7n60YsfOcl6uQbTz9g&oe=6AC0CBA1",
+          "event": null,
+          "caption": "WhatsApp",
+          "cta_text": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "🚨 CEILÂNDIA, A OPERAÇÃO FECHA MÊS COMEÇOU!\nA Drogaria Best Farma preparou preços especiais para você fechar o mês economizando de verdade! 🔥\nTem Lola Cosmetics, Haskell, creatina, cuidados pessoais e muito mais com descontos que valem a pena.\n👉 Arraste para o lado, confira todas as ofertas e escolha as suas!\n📲 Peça pelo WhatsApp: (61) 99610-6896\n⏰ Ofertas válidas de 28/10 a 30/10, enquanto durarem os estoques."
+          },
+          "cta_type": "SHOP_NOW",
+          "display_format": "IMAGE",
+          "link_description": "🔥 É só até 30/10! Confira as ofertas da Operação Fecha Mês Best Farma.",
+          "link_url": "https://api.whatsapp.com/send",
+          "images": [
+            {
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/830151679_2836766096708676_2606079646195971211_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bOb1Q5TRGysQ7kNvwHxt-76&_nc_oc=Adri7TYFYbBBnYKZT5FT3cLABGuKZTJj-EboAySuiyyKcBPl3hQKbCwxl8U_hGIdKARMprRq2TuvLA6hezIabAJr&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOTY8iCQdpvBSvKLDKSj-7WQGQGoN_ZEFjkGFCmvyOB5w&oe=6AC0BB65",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329248_1905234290454140_4075663053939510821_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ThLtO1MsDQUQ7kNvwGV3AcU&_nc_oc=AdrGA0aYsOBiE71yG2FlS8A7MdOBxv10mJ4V1YgIZcBE-XT91z1yWe0G5-AVCnjweoxIlj1sUaLnh9sXEyzkz9OI&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMm_-0ASPGAAmEiAdMt8IC3gLtan7k_0lavz0L0EWFADA&oe=6AC09B97",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "page_categories": [
+            "Health & Beauty"
+          ],
+          "page_like_count": 211,
+          "title": "🚨 Fecha Mês Best Farma: ofertas imperdíveis!",
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Drogaria Best Farma",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 7660,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "1634533378068700",
+      "pageName": "Drogaria Best Farma",
+      "pageId": "108971358576240",
+      "pageProfileUri": "https://www.facebook.com/drogariabestfarmadf/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829324821_1389127146721701_1277624878442020874_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZreJF7lcFv8Q7kNvwFEnvUf&_nc_oc=AdpXd3mGgGogRlxR-kQfZTF7Ka1H-BxEEzQGwEwT1_Vx8dfRQjg7_BCx1U-bnPBl8lu9MbeMZXqXk35qFINdSdSM&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNhVnCFZhf0l55CWz8483Pwewg4KhrDwieW0Vis-OSKLw&oe=6AC0CC7C",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "WHATSAPP",
+        "THREADS"
+      ],
+      "primaryText": "🚨 CEILÂNDIA, A OPERAÇÃO FECHA MÊS COMEÇOU!\nA Drogaria Best Farma preparou preços especiais para você fechar o mês economizando de verdade! 🔥\nTem Lola Cosmetics, Haskell, creatina, cuidados pessoais e muito mais com descontos que valem a pena.\n👉 Arraste para o lado, confira todas as ofertas e escolha as suas!\n📲 Peça pelo WhatsApp: (61) 99610-6896\n⏰ Ofertas válidas de 28/10 a 30/10, enquanto durarem os estoques.",
+      "headline": "🚨 Fecha Mês Best Farma: ofertas imperdíveis!",
+      "caption": "WhatsApp",
+      "linkDescription": "🔥 É só até 30/10! Confira as ofertas da Operação Fecha Mês Best Farma.",
+      "ctaText": "Shop now",
+      "ctaType": "SHOP_NOW",
+      "landingPageUrl": "https://api.whatsapp.com/send",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=1634533378068700",
+      "media": {
+        "type": "image",
+        "urls": [
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340790_1802114624435253_8611780086011745704_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8G2YI0NUPqAQ7kNvwGG87yz&_nc_oc=AdrTrZpTCmFo4aOwmrw_bTc3j6_7_f4MduEA8boDTcPLKHDgmur4FA5Pvx4LO3yyapKVWZebNnu35OgLo99tTXBv&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQN4nnf-4S5d2OjsqReBmGR-7PPuwYB-CET1XOiLfYKKfQ&oe=6AC0A3B8"
+        ]
+      },
+      "pageCategories": [
+        "Health & Beauty"
+      ],
+      "raw": {
+        "ad_archive_id": "1634533378068700",
+        "collation_count": null,
+        "collation_id": "4571801446432854",
+        "is_active": true,
+        "page_id": "108971358576240",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "108971358576240",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/drogariabestfarmadf/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Drogaria Best Farma",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829324821_1389127146721701_1277624878442020874_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZreJF7lcFv8Q7kNvwFEnvUf&_nc_oc=AdpXd3mGgGogRlxR-kQfZTF7Ka1H-BxEEzQGwEwT1_Vx8dfRQjg7_BCx1U-bnPBl8lu9MbeMZXqXk35qFINdSdSM&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNhVnCFZhf0l55CWz8483Pwewg4KhrDwieW0Vis-OSKLw&oe=6AC0CC7C",
+          "event": null,
+          "caption": "WhatsApp",
+          "cta_text": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "🚨 CEILÂNDIA, A OPERAÇÃO FECHA MÊS COMEÇOU!\nA Drogaria Best Farma preparou preços especiais para você fechar o mês economizando de verdade! 🔥\nTem Lola Cosmetics, Haskell, creatina, cuidados pessoais e muito mais com descontos que valem a pena.\n👉 Arraste para o lado, confira todas as ofertas e escolha as suas!\n📲 Peça pelo WhatsApp: (61) 99610-6896\n⏰ Ofertas válidas de 28/10 a 30/10, enquanto durarem os estoques."
+          },
+          "cta_type": "SHOP_NOW",
+          "display_format": "IMAGE",
+          "link_description": "🔥 É só até 30/10! Confira as ofertas da Operação Fecha Mês Best Farma.",
+          "link_url": "https://api.whatsapp.com/send",
+          "images": [
+            {
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340790_1802114624435253_8611780086011745704_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8G2YI0NUPqAQ7kNvwGG87yz&_nc_oc=AdrTrZpTCmFo4aOwmrw_bTc3j6_7_f4MduEA8boDTcPLKHDgmur4FA5Pvx4LO3yyapKVWZebNnu35OgLo99tTXBv&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQN4nnf-4S5d2OjsqReBmGR-7PPuwYB-CET1XOiLfYKKfQ&oe=6AC0A3B8",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340858_2419989601864487_3826394999206044714_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vo0zj73q3mcQ7kNvwEcsNfk&_nc_oc=AdqOK61IOf-21BABn8mI5OBrsfMGKvEgO2IeK5icjR3l5p3vPoRqm0lChnzeyGotrX1n5cg5CkC7pz5w8_1uBUDy&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNHMazdov-rM89_Xm-70YSWO5XqfGzxNCQP9LroV5RTJA&oe=6AC0B685",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "page_categories": [
+            "Health & Beauty"
+          ],
+          "page_like_count": 211,
+          "title": "🚨 Fecha Mês Best Farma: ofertas imperdíveis!",
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Drogaria Best Farma",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 8730,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "2251861065611783",
+      "pageName": "Bio Mundo Presidente Prudente",
+      "pageId": "1108433529023813",
+      "pageProfileUri": "https://www.facebook.com/61589658328353/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827861522_1874194530432522_2581606810161523930_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7pUwyP-D6n0Q7kNvwEDw2BM&_nc_oc=AdphjM8KT1WZYudlsGd_mRW-3RevgFu7Oq9yTQbRVZ1upWLeo5gDqZ6xLvPze-SMSMccFy_BvON8eyVrEMKJH3-q&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPzcr9w5AiIkR_GX590EaAykA3T4IaMj_GHiIGDjWvC1g&oe=6AC0BA73",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "primaryText": "🔥 Bio Oferta de fechamento de mês 🔥\n\n🌟 Creatina DUX Monohidratada 300g\n\nDe: 89,90\nPor apenas: 69,90\n\nOferta válida até 30/09 ou enquanto durarem os estoques!",
+      "caption": "WhatsApp",
+      "ctaText": "Send WhatsApp message",
+      "ctaType": "WHATSAPP_MESSAGE",
+      "landingPageUrl": "https://api.whatsapp.com/send",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=2251861065611783",
+      "media": {
+        "type": "image",
+        "urls": [
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340796_2298630404271211_4962593076258202927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gSsOVX7WabkQ7kNvwHe7P4l&_nc_oc=AdqVcNr1NCI5XuWtpDB9_7lCvqJ2GJHjKGvIRYzI75KJun8Dkb80vaTr5g6hGMGk2dREb_r4Hd0matHAt4WUUHXe&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMV-u_TtapmDl4LxmALtMJI-FVWe2RIcGgCQ1z7lffkIA&oe=6AC0C5A6"
+        ]
+      },
+      "pageCategories": [
+        "Nutrition"
+      ],
+      "raw": {
+        "ad_archive_id": "2251861065611783",
+        "collation_count": 1,
+        "collation_id": "1107469288395005",
+        "is_active": true,
+        "page_id": "1108433529023813",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "1108433529023813",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/61589658328353/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Bio Mundo Presidente Prudente",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827861522_1874194530432522_2581606810161523930_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7pUwyP-D6n0Q7kNvwEDw2BM&_nc_oc=AdphjM8KT1WZYudlsGd_mRW-3RevgFu7Oq9yTQbRVZ1upWLeo5gDqZ6xLvPze-SMSMccFy_BvON8eyVrEMKJH3-q&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPzcr9w5AiIkR_GX590EaAykA3T4IaMj_GHiIGDjWvC1g&oe=6AC0BA73",
+          "event": null,
+          "caption": "WhatsApp",
+          "cta_text": "Send WhatsApp message",
+          "cards": [],
+          "body": {
+            "text": "🔥 Bio Oferta de fechamento de mês 🔥\n\n🌟 Creatina DUX Monohidratada 300g\n\nDe: 89,90\nPor apenas: 69,90\n\nOferta válida até 30/09 ou enquanto durarem os estoques!"
+          },
+          "cta_type": "WHATSAPP_MESSAGE",
+          "display_format": "IMAGE",
+          "link_description": null,
+          "link_url": "https://api.whatsapp.com/send",
+          "images": [
+            {
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340796_2298630404271211_4962593076258202927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gSsOVX7WabkQ7kNvwHe7P4l&_nc_oc=AdqVcNr1NCI5XuWtpDB9_7lCvqJ2GJHjKGvIRYzI75KJun8Dkb80vaTr5g6hGMGk2dREb_r4Hd0matHAt4WUUHXe&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMV-u_TtapmDl4LxmALtMJI-FVWe2RIcGgCQ1z7lffkIA&oe=6AC0C5A6",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825292462_1988821551800685_5871604177303781537_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PUlq_UKCZJMQ7kNvwG25zQN&_nc_oc=AdpTqXC0jsy_xXOXfiwOj1cAOEuoIWN45VHTQV-twch5-tVD9M0TZzPZtiHiuUA8vAGEI4Q98VGUUg581hXYzvIX&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPKyHgfxV2RQdkEYwpsnKSUpvnPBjrW7FOBfe73t7Lh3g&oe=6AC09C69",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "page_categories": [
+            "Nutrition"
+          ],
+          "page_like_count": 113,
+          "title": null,
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Bio Mundo Presidente Prudente",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "INSTAGRAM"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 8378,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "1115961064333912",
+      "pageName": "Montanha Suplementos Jaguará ",
+      "pageId": "1184682254718429",
+      "pageProfileUri": "https://www.facebook.com/61589506061483/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827470334_1112766058401081_3095535830197978022_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oQ4INAj-qo0Q7kNvwGVmiJH&_nc_oc=AdrUVLO3b-tw0EUTGQy4uFk32ZbUUsZX2frxzYqfeOpJPg1loZAi3aFTsF9sAF7z7PuaZIRj7nXbU_kHLwQJ7-Sm&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMlO-6twQxYibTytT0CKeAFngqV61eQ86zNhmN9Z544wA&oe=6AC0A5A2",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "WHATSAPP"
+      ],
+      "primaryText": "Creatina monohidratada com ótimo custo-benefício! 💪\nAproveite por apenas R$ 50,00.\n📲 Chame a Montanha Suplementos e garanta a sua.",
+      "headline": "Creatina Uêvo 300g — R$ 50,00",
+      "caption": "api.whatsapp.com",
+      "ctaText": "Send WhatsApp message",
+      "ctaType": "WHATSAPP_MESSAGE",
+      "landingPageUrl": "https://api.whatsapp.com/send",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=1115961064333912",
+      "media": {
+        "type": "image",
+        "urls": [
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828552120_1137770562261701_5656549065826151453_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9u_sMcQuBcQ7kNvwFQ_iwZ&_nc_oc=AdqVG8LE3IZZI5CZjOo0eNsnxC1R8jkzvuHZUib8UUCRSDxGncRBhxSsJxUd3DdYt6c2UpVBGl2iTOmyrjzpGQU2&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPWhr7-TM40sToHSdXjqzSNVwQ_Kijmhh-etAwXawlwhA&oe=6AC0C429"
+        ]
+      },
+      "pageCategories": [
+        "Vitamins/supplements",
+        "Nutrition"
+      ],
+      "raw": {
+        "ad_archive_id": "1115961064333912",
+        "collation_count": 1,
+        "collation_id": "1599066958291501",
+        "is_active": true,
+        "page_id": "1184682254718429",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "1184682254718429",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/61589506061483/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Montanha Suplementos Jaguará ",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827470334_1112766058401081_3095535830197978022_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oQ4INAj-qo0Q7kNvwGVmiJH&_nc_oc=AdrUVLO3b-tw0EUTGQy4uFk32ZbUUsZX2frxzYqfeOpJPg1loZAi3aFTsF9sAF7z7PuaZIRj7nXbU_kHLwQJ7-Sm&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMlO-6twQxYibTytT0CKeAFngqV61eQ86zNhmN9Z544wA&oe=6AC0A5A2",
+          "event": null,
+          "caption": "api.whatsapp.com",
+          "cta_text": "Send WhatsApp message",
+          "cards": [],
+          "body": {
+            "text": "Creatina monohidratada com ótimo custo-benefício! 💪\nAproveite por apenas R$ 50,00.\n📲 Chame a Montanha Suplementos e garanta a sua."
+          },
+          "cta_type": "WHATSAPP_MESSAGE",
+          "display_format": "IMAGE",
+          "link_description": null,
+          "link_url": "https://api.whatsapp.com/send",
+          "images": [
+            {
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828552120_1137770562261701_5656549065826151453_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9u_sMcQuBcQ7kNvwFQ_iwZ&_nc_oc=AdqVG8LE3IZZI5CZjOo0eNsnxC1R8jkzvuHZUib8UUCRSDxGncRBhxSsJxUd3DdYt6c2UpVBGl2iTOmyrjzpGQU2&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPWhr7-TM40sToHSdXjqzSNVwQ_Kijmhh-etAwXawlwhA&oe=6AC0C429",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825353126_1252637760355560_3592490904338921439_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B_lNsIiqOdsQ7kNvwEPsFHj&_nc_oc=AdraySfJTFHhA_SgrEN-TQc0rn5H36H4K4lQkaSRii8Wkzt8ksnkTQVrcdCXn8gVq6PSo-aRC5INiz0SQQPpg4v8&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPR7Pnj4aS0Xv_xgE_7QnCDtD1ywX3gx_Qhe5M1VAaoRg&oe=6AC0AF00",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "page_categories": [
+            "Vitamins/supplements",
+            "Nutrition"
+          ],
+          "page_like_count": 17,
+          "title": "Creatina Uêvo 300g — R$ 50,00",
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Montanha Suplementos Jaguará ",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 8529,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "1082002324438267",
+      "pageName": "Biomagistral Piracicaba",
+      "pageId": "1075612475626169",
+      "pageProfileUri": "https://www.facebook.com/61588554685405/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329831_4162758574016360_602954745443496128_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H69-AXR4cRsQ7kNvwHnI2n2&_nc_oc=AdogG7qa2BR3KvUPdmI1YCTZwX_lL9LyN2GB4i8CkDKjCm44EN4cM2-6vQJmAW1yWIspc5IJ8_a2rGHRM_8s-nQ3&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPgVTGUzZEhfYaU-IWBOckR3kLYca5sRSMYpe2Re-wbJA&oe=6AC09DCA",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "primaryText": "🏋️‍♂️ **NÃO ESTÁ TENDO O DESEMPENHO QUE GOSTARIA NA ACADEMIA?** \n⚡ **Falta energia e disposição para manter sua rotina de treinos?**\n\nA **BioMagistral Piracicaba** preparou uma condição especial para você cuidar da sua suplementação com **qualidade, confiança e excelência magistral**. 💚\n\n🔥 **COMBO PERFORMANCE BIOMAGISTRAL** 🔥\n\n✅ **Magnésio** — de **R$ 49,90** \n✅ **Creatina** — de **R$ 119,90** \n✅ **Ômega 3** — de **R$ 90,00**\n\n💰 Valor dos 3 produtos separadamente: **R$ 259,80**\n\n🚨 **LEVANDO O COMBO COMPLETO: APENAS R$ 207,84!**\n\nVocê economiza **R$ 51,96 — 20% DE DESCONTO!** 🤩\n\nE tem mais:\n\n🚚 **ENTREGA GRÁTIS PARA TODO O BRASIL! 🇧🇷**\n\nUma combinação pensada para complementar sua rotina de suplementação, com a qualidade e o cuidado da **BioMagistral Piracicaba**.\n\n⏰ **PROMOÇÃO VÁLIDA SOMENTE ATÉ 30/09/2026!**\n\nNão deixe para a última hora. \n📲 **Peça agora pelo WhatsApp!**\n\n💬 WhatsApp: **(19) 3490-0524** \n☎️ Fone: **(19) 3490-0525** \n📍 Av. Independência, nº 2726 — Piracicaba/SP\n\n💚 **BIOMAGISTRAL PIRACICABA** \n**Qualidade magistral para acompanhar seus objetivos.**\n\n👉 Chame agora no WhatsApp e garanta seu **COMBO PERFORMANCE** antes do fim da promoção!\n\n#BioMagistral #BioMagistralPiracicaba #Creatina #Magnesio #Omega3 #Suplementacao #Academia #Performance #Treino #Energia #VidaSaudavel #Piracicaba #ComboPromocional",
+      "caption": "api.whatsapp.com",
+      "ctaText": "Send WhatsApp message",
+      "ctaType": "WHATSAPP_MESSAGE",
+      "landingPageUrl": "https://api.whatsapp.com/send",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=1082002324438267",
+      "media": {
+        "type": "carousel",
+        "urls": [
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329808_1374750164642255_3499583542750598740_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h4qSzKmjXNsQ7kNvwG0bTRP&_nc_oc=AdoDunqMJMPXWnTVT1UHJlQ2pcXqzvDuxBn1nJg6jfmJCUZEfbt1JoQBspbJqA13oXHQoobgPfTz0ucWX29JIFpN&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPAWGhQcrflEOsI5j1iq4LTSvhTbLk9_GDK_UVi9NZNLQ&oe=6AC0A354",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329687_2129305907981280_5417358985081255927_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QmboPP2xs6YQ7kNvwFlk9Pq&_nc_oc=Adp89-DS563epzWbZLl8z0HKNXgEKPgO9gw_z0B5p8lFT-LOEUxR9Vpj8zIZewbHVvZHGcygyoV2CinSTMulxkL4&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQN2VfvN6SlL37HEfEzN4cyNnJgvadA4ycyE-H4tlQDs-w&oe=6AC0C987",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329886_1777193086902681_267451977025915402_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HnC8bWre4EEQ7kNvwHwABoQ&_nc_oc=Adpg5nHukNOwMzFX41ZRQCt_5U_q2T0O0t8Hp5AHy7cjfLjU20kpafQMIyw53TBLeQJTZMKkp4vQBLKYRMncOMiV&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOQ-_zWD9M4BXhAQTRxLhwOeLcSwgYdsI_LDvV4fju-tw&oe=6AC0CDFB",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329729_1081563314804638_5936246175125174804_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4XGLG7nwXoAQ7kNvwFgvMBw&_nc_oc=AdoGu5lazzZ0eRZjAnegL34OBdPIDD1Rr-x29JapROv1v65pk1tkjKvZe0hjIWcP0kPUDJGCE6ziAV0ci2GqnxIR&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQP8k5QlwEZGJpdaU4xPZ5h9YF6jSzJrhX6o1fT7MxlVWA&oe=6AC0A636",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329623_1393532002939602_6152743849072342886_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t5iv9SNwHfYQ7kNvwF46gXx&_nc_oc=AdpI9pxpQaesTNZUZIW5GKzFXBSU91KKm01WSzpus-MeDhfVQ-bWmPEVlEO8QOz5MOMV4yb03Pji3y_hvGa4EzPb&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPJLCAqXgxGSPmCG4kYf74oqAN4N3j5k-6kQS58WKL7KA&oe=6AC0AADB",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329907_2383968029098954_5050164945609454091_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EAzvbhejvUYQ7kNvwHa6wc6&_nc_oc=AdpzkHkwx--pb7quKPNx22zx6wlxOtiAq0jgeph-N2uW67yMKX_fM36EjHYYCcHiFPO1Vifm2fLqc9gB4147WRfv&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMYxJ9xil-4bhNPTf27hC-_bPMZZ8skxVpdlQJc7dp6Cw&oe=6AC0B026",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829528765_39659461356972247_4924226554529073139_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vGOOSV1yBx4Q7kNvwFH6626&_nc_oc=AdptMyy-7zb3n6Ce1Acfgv20cbHUqLGcUh4e9pih36hPg5dmYZT7iatcg439Njl5iCOptw5V6s2Lqc-oPUbktuSn&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQM0aauZAW2903gkKLn6RwOtQkdvVj3Jwu2aoo5Ra-lrrQ&oe=6AC0C756",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329827_1094793953264749_7707231044850710259_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GIZE0LR5vwcQ7kNvwF4cpmJ&_nc_oc=Adqw54nKfr1X-WiE3gCx13DsN6kpnMuQ6UdwKxd8fFea9rMOn4rFSJxdExdz-hAf7I6Wcm0Y_YsfuwtyrjoOs58M&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOtbUxEX11OeQaPRDrxW3RCDKdxkXnVl_NbAeCn0Vj08g&oe=6AC0B49D"
+        ]
+      },
+      "pageCategories": [
+        "Health/beauty",
+        "Medical Service",
+        "Pharmaceuticals"
+      ],
+      "raw": {
+        "ad_archive_id": "1082002324438267",
+        "collation_count": 1,
+        "collation_id": "2075892849962781",
+        "is_active": true,
+        "page_id": "1075612475626169",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "1075612475626169",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/61588554685405/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Biomagistral Piracicaba",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329831_4162758574016360_602954745443496128_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H69-AXR4cRsQ7kNvwHnI2n2&_nc_oc=AdogG7qa2BR3KvUPdmI1YCTZwX_lL9LyN2GB4i8CkDKjCm44EN4cM2-6vQJmAW1yWIspc5IJ8_a2rGHRM_8s-nQ3&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPgVTGUzZEhfYaU-IWBOckR3kLYca5sRSMYpe2Re-wbJA&oe=6AC09DCA",
+          "event": null,
+          "caption": "api.whatsapp.com",
+          "cta_text": "Send WhatsApp message",
+          "cards": [
+            {
+              "body": " ",
+              "cta_type": "WHATSAPP_MESSAGE",
+              "caption": "api.whatsapp.com",
+              "link_description": " ",
+              "link_url": "https://api.whatsapp.com/send?phone=16505555555&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyNSJ9.eyJleHAiOjE3OTA3MDkxMDQsInBob25lIjoiMTY1MDU1NTU1NTUifQ.yo7nJoksnX14DNL4RrBXu_mU8VAT6q0ua1Bf1Xk16Ht-PZTx8lXNnq9QTGsJpFfP5ZRXmTMOTlZP3TkP3utlgw",
+              "title": " ",
+              "cta_text": "Send WhatsApp Message",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329808_1374750164642255_3499583542750598740_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h4qSzKmjXNsQ7kNvwG0bTRP&_nc_oc=AdoDunqMJMPXWnTVT1UHJlQ2pcXqzvDuxBn1nJg6jfmJCUZEfbt1JoQBspbJqA13oXHQoobgPfTz0ucWX29JIFpN&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPAWGhQcrflEOsI5j1iq4LTSvhTbLk9_GDK_UVi9NZNLQ&oe=6AC0A354",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329687_2129305907981280_5417358985081255927_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QmboPP2xs6YQ7kNvwFlk9Pq&_nc_oc=Adp89-DS563epzWbZLl8z0HKNXgEKPgO9gw_z0B5p8lFT-LOEUxR9Vpj8zIZewbHVvZHGcygyoV2CinSTMulxkL4&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQN2VfvN6SlL37HEfEzN4cyNnJgvadA4ycyE-H4tlQDs-w&oe=6AC0C987",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "WHATSAPP_MESSAGE",
+              "caption": "api.whatsapp.com",
+              "link_description": " ",
+              "link_url": "https://api.whatsapp.com/send?phone=16505555555&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyNSJ9.eyJleHAiOjE3OTA3MDkxMDQsInBob25lIjoiMTY1MDU1NTU1NTUifQ.ROTnj09DD0YRdrKzfDwEvExQVKpimVa8I20OCLhZ-eeFuaKMVFAOWb_YzN0-UFceYWqjzw2OyWI1uUjIuCgy1Q",
+              "title": " ",
+              "cta_text": "Send WhatsApp Message",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329886_1777193086902681_267451977025915402_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HnC8bWre4EEQ7kNvwHwABoQ&_nc_oc=Adpg5nHukNOwMzFX41ZRQCt_5U_q2T0O0t8Hp5AHy7cjfLjU20kpafQMIyw53TBLeQJTZMKkp4vQBLKYRMncOMiV&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOQ-_zWD9M4BXhAQTRxLhwOeLcSwgYdsI_LDvV4fju-tw&oe=6AC0CDFB",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329729_1081563314804638_5936246175125174804_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4XGLG7nwXoAQ7kNvwFgvMBw&_nc_oc=AdoGu5lazzZ0eRZjAnegL34OBdPIDD1Rr-x29JapROv1v65pk1tkjKvZe0hjIWcP0kPUDJGCE6ziAV0ci2GqnxIR&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQP8k5QlwEZGJpdaU4xPZ5h9YF6jSzJrhX6o1fT7MxlVWA&oe=6AC0A636",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "WHATSAPP_MESSAGE",
+              "caption": "api.whatsapp.com",
+              "link_description": " ",
+              "link_url": "https://api.whatsapp.com/send?phone=16505555555&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyNSJ9.eyJleHAiOjE3OTA3MDkxMDQsInBob25lIjoiMTY1MDU1NTU1NTUifQ.UKANHw-S9Z9kVwF8qfixABbunhNQFqa_4Y1ukNz9buUfVU0S-35vYL09v_Z20NcMw0N18oN9jYJ5rrcag4gwMQ",
+              "title": " ",
+              "cta_text": "Send WhatsApp Message",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329623_1393532002939602_6152743849072342886_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t5iv9SNwHfYQ7kNvwF46gXx&_nc_oc=AdpI9pxpQaesTNZUZIW5GKzFXBSU91KKm01WSzpus-MeDhfVQ-bWmPEVlEO8QOz5MOMV4yb03Pji3y_hvGa4EzPb&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPJLCAqXgxGSPmCG4kYf74oqAN4N3j5k-6kQS58WKL7KA&oe=6AC0AADB",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329907_2383968029098954_5050164945609454091_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EAzvbhejvUYQ7kNvwHa6wc6&_nc_oc=AdpzkHkwx--pb7quKPNx22zx6wlxOtiAq0jgeph-N2uW67yMKX_fM36EjHYYCcHiFPO1Vifm2fLqc9gB4147WRfv&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQMYxJ9xil-4bhNPTf27hC-_bPMZZ8skxVpdlQJc7dp6Cw&oe=6AC0B026",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "WHATSAPP_MESSAGE",
+              "caption": "api.whatsapp.com",
+              "link_description": " ",
+              "link_url": "https://api.whatsapp.com/send?phone=16505555555&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyNSJ9.eyJleHAiOjE3OTA3MDkxMDQsInBob25lIjoiMTY1MDU1NTU1NTUifQ.dXjWYZSob1FgI_iacOtMUcIkI-vgTZEaaB4tmXBY9F2gTPBv98iDMkzkpzHB0ryutgmKcmdK1oFtEeJsHAQ0uA",
+              "title": " ",
+              "cta_text": "Send WhatsApp Message",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829528765_39659461356972247_4924226554529073139_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vGOOSV1yBx4Q7kNvwFH6626&_nc_oc=AdptMyy-7zb3n6Ce1Acfgv20cbHUqLGcUh4e9pih36hPg5dmYZT7iatcg439Njl5iCOptw5V6s2Lqc-oPUbktuSn&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQM0aauZAW2903gkKLn6RwOtQkdvVj3Jwu2aoo5Ra-lrrQ&oe=6AC0C756",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825329827_1094793953264749_7707231044850710259_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GIZE0LR5vwcQ7kNvwF4cpmJ&_nc_oc=Adqw54nKfr1X-WiE3gCx13DsN6kpnMuQ6UdwKxd8fFea9rMOn4rFSJxdExdz-hAf7I6Wcm0Y_YsfuwtyrjoOs58M&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOtbUxEX11OeQaPRDrxW3RCDKdxkXnVl_NbAeCn0Vj08g&oe=6AC0B49D",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "body": {
+            "text": "🏋️‍♂️ **NÃO ESTÁ TENDO O DESEMPENHO QUE GOSTARIA NA ACADEMIA?** \n⚡ **Falta energia e disposição para manter sua rotina de treinos?**\n\nA **BioMagistral Piracicaba** preparou uma condição especial para você cuidar da sua suplementação com **qualidade, confiança e excelência magistral**. 💚\n\n🔥 **COMBO PERFORMANCE BIOMAGISTRAL** 🔥\n\n✅ **Magnésio** — de **R$ 49,90** \n✅ **Creatina** — de **R$ 119,90** \n✅ **Ômega 3** — de **R$ 90,00**\n\n💰 Valor dos 3 produtos separadamente: **R$ 259,80**\n\n🚨 **LEVANDO O COMBO COMPLETO: APENAS R$ 207,84!**\n\nVocê economiza **R$ 51,96 — 20% DE DESCONTO!** 🤩\n\nE tem mais:\n\n🚚 **ENTREGA GRÁTIS PARA TODO O BRASIL! 🇧🇷**\n\nUma combinação pensada para complementar sua rotina de suplementação, com a qualidade e o cuidado da **BioMagistral Piracicaba**.\n\n⏰ **PROMOÇÃO VÁLIDA SOMENTE ATÉ 30/09/2026!**\n\nNão deixe para a última hora. \n📲 **Peça agora pelo WhatsApp!**\n\n💬 WhatsApp: **(19) 3490-0524** \n☎️ Fone: **(19) 3490-0525** \n📍 Av. Independência, nº 2726 — Piracicaba/SP\n\n💚 **BIOMAGISTRAL PIRACICABA** \n**Qualidade magistral para acompanhar seus objetivos.**\n\n👉 Chame agora no WhatsApp e garanta seu **COMBO PERFORMANCE** antes do fim da promoção!\n\n#BioMagistral #BioMagistralPiracicaba #Creatina #Magnesio #Omega3 #Suplementacao #Academia #Performance #Treino #Energia #VidaSaudavel #Piracicaba #ComboPromocional"
+          },
+          "cta_type": "WHATSAPP_MESSAGE",
+          "display_format": "CAROUSEL",
+          "link_description": null,
+          "link_url": "https://api.whatsapp.com/send",
+          "images": [],
+          "page_categories": [
+            "Health/beauty",
+            "Medical Service",
+            "Pharmaceuticals"
+          ],
+          "page_like_count": 51,
+          "title": null,
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Biomagistral Piracicaba",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "INSTAGRAM"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 8748,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "2117691022196544",
+      "pageName": "Wegum Creatina em Gummies",
+      "pageId": "1298601633331011",
+      "pageProfileUri": "https://www.facebook.com/61593781199924/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829873753_1358348316373381_2097182677227012730_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tWmLDjcfD64Q7kNvwFA1VOD&_nc_oc=Adrn0trTv1NZlLynCzi4Ruv3ThO6d9ULYg_xsH-661Tjcrp4D3ZXRjeY6WYwybGG1GDsS1sHDDluc0OwgIJOtr9x&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPoSEmr6gqVIhmSExQlWfVronAudPmd8WOk62K2PEUiTw&oe=6AC0AAB8",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "primaryText": "Mais força, potência e desempenho para os seus treinos — com muito mais praticidade na rotina. 💗\n\nA creatina também auxilia na recuperação muscular e no ganho de massa magra quando combinada com uma alimentação equilibrada e treinos consistentes.\n\nCom a WEGUM, são 2 gummies por dia para consumir 3g de creatina monohidratada, com sabor morango e zero açúcar. Fácil de levar, gostosa de consumir e simples de manter todos os dias. 🍓\n@camis.romano\n\nGaranta a sua pelo link da bio!\n\n#WEGUM #CreatinaEmGummy #CreatinaMonohidratada #DesempenhoFísico",
+      "caption": "instagram.com",
+      "ctaText": "Visit Instagram profile",
+      "ctaType": "VIEW_INSTAGRAM_PROFILE",
+      "landingPageUrl": "https://instagram.com/wegumoficial",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=2117691022196544",
+      "media": {
+        "type": "video",
+        "urls": [
+          "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNApA7ChknYNdOW3GQgXnam1-5kNKIxdKxDqeon27xR9FnPGxfp33ZM39fMUUez02kQAZQGf_dg0DyDt8rBFKDPPVGRWnH_yvby07Z4qvefGg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=PpaGl8h4NX4Q7kNvwEiFy_a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDU3MjgxODIwNjI1OTAsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b1006e86397def9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTQyQzMwRUUyNThFMjQxMEM0NDcxQUFFNkRGNTFBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzRTFCNjdEMDVCQzRDRDZCMjZGMDc2RjQxNUNCMjNDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8t5T47On2AxUCKAJDMywXQEQZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQPxjsreF-dLLhKoLef154snE7pETsD9GnICEpP6V6odqQ&oe=6AC0A1A2"
+        ],
+        "thumbnailUrl": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828924691_2100089707308087_5326483065770610247_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ETCdJE_ap0Q7kNvwFmtJ58&_nc_oc=Adq4NKSEAWnI2dSf2bn7emeS__HWynPoofc5-PYRgNa2YGGP_mRZH4Ny3oSmkH7kAWSkfY7lUIGBNOlCyRE67iWw&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQM3om4sYP6llGsxceb7ERvtuv_g5L0izgvWQazbixJ4nw&oe=6AC0CB4B",
+        "videoUrl": "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNApA7ChknYNdOW3GQgXnam1-5kNKIxdKxDqeon27xR9FnPGxfp33ZM39fMUUez02kQAZQGf_dg0DyDt8rBFKDPPVGRWnH_yvby07Z4qvefGg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=PpaGl8h4NX4Q7kNvwEiFy_a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDU3MjgxODIwNjI1OTAsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b1006e86397def9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTQyQzMwRUUyNThFMjQxMEM0NDcxQUFFNkRGNTFBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzRTFCNjdEMDVCQzRDRDZCMjZGMDc2RjQxNUNCMjNDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8t5T47On2AxUCKAJDMywXQEQZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQPxjsreF-dLLhKoLef154snE7pETsD9GnICEpP6V6odqQ&oe=6AC0A1A2"
+      },
+      "pageCategories": [
+        "Vitamins/supplements"
+      ],
+      "raw": {
+        "ad_archive_id": "2117691022196544",
+        "collation_count": 1,
+        "collation_id": "1083454264425219",
+        "is_active": true,
+        "page_id": "1298601633331011",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "1298601633331011",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/61593781199924/",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "Wegum Creatina em Gummies",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829873753_1358348316373381_2097182677227012730_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tWmLDjcfD64Q7kNvwFA1VOD&_nc_oc=Adrn0trTv1NZlLynCzi4Ruv3ThO6d9ULYg_xsH-661Tjcrp4D3ZXRjeY6WYwybGG1GDsS1sHDDluc0OwgIJOtr9x&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPoSEmr6gqVIhmSExQlWfVronAudPmd8WOk62K2PEUiTw&oe=6AC0AAB8",
+          "event": null,
+          "caption": "instagram.com",
+          "cta_text": "Visit Instagram profile",
+          "cards": [],
+          "body": {
+            "text": "Mais força, potência e desempenho para os seus treinos — com muito mais praticidade na rotina. 💗\n\nA creatina também auxilia na recuperação muscular e no ganho de massa magra quando combinada com uma alimentação equilibrada e treinos consistentes.\n\nCom a WEGUM, são 2 gummies por dia para consumir 3g de creatina monohidratada, com sabor morango e zero açúcar. Fácil de levar, gostosa de consumir e simples de manter todos os dias. 🍓\n@camis.romano\n\nGaranta a sua pelo link da bio!\n\n#WEGUM #CreatinaEmGummy #CreatinaMonohidratada #DesempenhoFísico"
+          },
+          "cta_type": "VIEW_INSTAGRAM_PROFILE",
+          "display_format": "VIDEO",
+          "link_description": null,
+          "link_url": "https://instagram.com/wegumoficial",
+          "images": [],
+          "page_categories": [
+            "Vitamins/supplements"
+          ],
+          "page_like_count": 10,
+          "title": null,
+          "videos": [
+            {
+              "video_hd_url": "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNApA7ChknYNdOW3GQgXnam1-5kNKIxdKxDqeon27xR9FnPGxfp33ZM39fMUUez02kQAZQGf_dg0DyDt8rBFKDPPVGRWnH_yvby07Z4qvefGg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=PpaGl8h4NX4Q7kNvwEiFy_a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDU3MjgxODIwNjI1OTAsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b1006e86397def9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTQyQzMwRUUyNThFMjQxMEM0NDcxQUFFNkRGNTFBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzRTFCNjdEMDVCQzRDRDZCMjZGMDc2RjQxNUNCMjNDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8t5T47On2AxUCKAJDMywXQEQZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQPxjsreF-dLLhKoLef154snE7pETsD9GnICEpP6V6odqQ&oe=6AC0A1A2",
+              "video_preview_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828924691_2100089707308087_5326483065770610247_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ETCdJE_ap0Q7kNvwFmtJ58&_nc_oc=Adq4NKSEAWnI2dSf2bn7emeS__HWynPoofc5-PYRgNa2YGGP_mRZH4Ny3oSmkH7kAWSkfY7lUIGBNOlCyRE67iWw&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQM3om4sYP6llGsxceb7ERvtuv_g5L0izgvWQazbixJ4nw&oe=6AC0CB4B",
+              "video_sd_url": "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMmkFiKfHpc5EdnVld8EZliza9T8ffpKUXFocBEZY_VhTOH3czyEz6BDPN64ctfWjDUEjCmQtayrxJqVCqHdUITnNzzhexXvaG8QF7SHQ.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=ztSarHKr7G0Q7kNvwFIhPLD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEwNTcyODE4MjA2MjU5MCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&_nc_enc=QdIf9YG8A2j3LcpssvDihwfEfa1w8FYIeQJcFMwhDTxNr4k7LyvU5PrKuuy8l2jYA89ybeaqXFsBRmocoKpjq4FT2U1jON_oY2ZFnZznP2u4X3FOjErVrtab2GQ&oh=00_AQOGLgnhMfkJOWkXJvYF97Zb_kkPEpzWAKc2DvlBgFRjmg&oe=6AC0C215",
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null
+            }
+          ],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Wegum Creatina em Gummies",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "INSTAGRAM"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 10048,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "1141092828591129",
+      "pageName": "Drogaria Venancio",
+      "pageId": "201659576542913",
+      "pageProfileUri": "https://www.facebook.com/drogariavenancio/",
+      "pageProfilePicture": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/830236684_1826406788352627_3051137631397136567_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oukd0wUsW04Q7kNvwED7LAU&_nc_oc=Adp1gkZPkD88CDhBtgpinUNc10cMcjIqY-z79mgNWOlyDmDno-HB3aVCc4ZSsyXLP_JSqp-w0hX9kwVozzZKMRxT&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPxhRuka1vK1mo5xRMWGq3hW2q6v2juUinU8RdHgRrLjQ&oe=6AC0B4F1",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "primaryText": "É do Rio. É do Rock. É Aniversário Venancio! A cada R$ 100 em compras, concorra a vales de até R$ 90 e a um BYD Zero.",
+      "headline": "Drogaria Venancio",
+      "caption": "https://www.drogariavenancio.com.br/ofertas",
+      "ctaText": "Shop now",
+      "ctaType": "SHOP_NOW",
+      "landingPageUrl": "https://www.drogariavenancio.com.br/ofertas",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=1141092828591129",
+      "media": {
+        "type": "carousel",
+        "urls": [
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827311657_1610465200730772_2064223806622267766_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yAjR2pXTxGUQ7kNvwFgHR5R&_nc_oc=Adpj8q4VMTlMxrA4y2AqBMyt3N3fMaIYCgIaZhGDDhroAIb9vGTjWARvv_IFiFe2dg0YzwEsGh2Ha-Cswdfhq8nC&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOI_bK8Q83qI60uhKwsIOmr5kfdKJK7Q-aF-UDWbZDu3g&oe=6AC0BE42",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828483385_1129232413376595_8528691523560483839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FwxfzMMwIx0Q7kNvwGDYw2j&_nc_oc=Adp_DT5m0haHkueHndOsO6yaf9O6ZfXWFvRIQmKEim7XzSxUGejj234sanHXh6DUJh52k0Jct8S4bauYYXFun9Q4&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOj1rq1tBNwU9NZblZDtNwtdOxVdPsUvdAyTsRQGcKH8g&oe=6AC0C85C",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340839_1443861864269365_8750694456098658438_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ST8hkZlEY5kQ7kNvwFEwFMh&_nc_oc=AdoljdF2hYbkC-ODnieIPPlWI1TAsDCweA_vv3bDj8zCF2wPdA1Rx3o6KZr03l2mAJkXmB6o4ISFdgRBa_y5vlIf&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPyLhlwLEqUj5lFJrg39gE4tuLNi3dARM3lZ6r5YWK8VQ&oe=6AC0C426",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828365394_1651189500048753_8277551608483038721_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GCNfyTDT8J0Q7kNvwFp0Yln&_nc_oc=Adpd-wCSAeYk-hpu3B_VZVt3ePtjWAr5VBhu86-1jrrXtKlQlMbulStDpfZZbNODJx1WHH5wW2UdDGOmZwd4JtDS&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOk7HyGnRU5XZBF7if2HDC1Nep_Ap28DtiNLJBskTjiRA&oe=6AC0A48F",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829250487_1611710290355847_1134278900618505687_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cb6F9XmE6OwQ7kNvwFKGhzZ&_nc_oc=AdqJJsh9yIYimKII8TxDadIvqffSVLENx1UP0bh7GY1DBfbMRln-wr_fYNaVsGdLUpv0ccveZgDIdliMBEkOCnPk&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNBHa4LwLK1pkSf7q3PEJqz0_EnZj7d0GbCzeJV5fqySw&oe=6AC0BE14",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340779_1653705926357732_3827986376293066824_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ZIkjStftpkQ7kNvwGYLE1B&_nc_oc=AdoxBeyP5U3nRVSJmMFKWu3B5itR0f9OJMiGr8QCU_bNtlMuGqeQmc5JypKqefVUNVonoO7D8LaL9Dd0OZKRKdRM&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNiTLl6aEJVKa2DB1CgZFJmQ9AHmUDMpYBwvG__G2CHsA&oe=6AC0AB9B",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829290451_3113216035542045_2460082333180973122_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3S7AhugfaLQQ7kNvwHsK2I2&_nc_oc=Adpq_tnkQU_IJWnQU7bGHSMyW0gZoFBHne_Gj0G3wC4bYFjlHN2d8rre1P_S_YAwm3bk_LlZOmdD5p523ORzB6CG&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNkr7yS6hiUG41-Gr6RJq4TwjQ_wEs6S7HJeAFInlz8lg&oe=6AC0C585",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829976157_1638195238017358_3634618290701193180_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CkEcUxVN_h8Q7kNvwGNx8h5&_nc_oc=Ado1ux7mDXFJSTHHM49N7a5hTdnZEEmQ4SJpX_sMzer0be5XfDQwPphnvHc1qdZt2CgzqmeuFQqI2Sw-YEPqSDCC&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQP2d_eGKh7HP8lWQSHEamjWDR1ECUADz11BNhRFTY5MXg&oe=6AC0BBCD",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829075658_2318940802249303_3343227416553509868_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zcbBkugpNyUQ7kNvwHL92Sc&_nc_oc=AdrdxAJjAXlejH4n8RwTqZS9x1xOApA6MplY9c6NeY_5RP-Fbw3SPMG3MWWrmFLp0TkDDTWPGWU_lAH_jOosg_ky&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQN6MrPF84ocMmnCsRpF1Bu7J0NpGknjev44CeYdmk-lCw&oe=6AC0A605",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828714760_2350246969081681_1091637895645775813_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L_ZchNQvVE0Q7kNvwHtOyG6&_nc_oc=Ado34fmjFEQ8OkMaEtmp3AHxrGSrSU304Rf0B073UUk2Ieirug9LPHhUlZYvcZmWi2D6loOYbW8AI9yaeJdEkygx&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPGUWP2ybOvlgDnfy3AjtORB_GPFlZFOsiErzb26bE33Q&oe=6AC0CC77",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829075658_949124761588049_6551443148933035372_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eCI7Ng1eVs0Q7kNvwFAUwC-&_nc_oc=Adr78f7vn2N_jpcmHLOKo6a_ncZDyJ9A4tJyR6OWmm9b9stb2LyOEjw4tG0MHjunhDWSIHupoqFKCccxTvsRP4eB&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOquYIsxm3uLkn3NqepNJTCGPRM-NQgJES5KiHSpjrjgQ&oe=6AC0B64D",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827231268_1648832850006326_8145335895500588438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9fJY0IuRgHsQ7kNvwHXyVKO&_nc_oc=Adr9DPj2VYvrhI0fVsYAgSIcOOqaQX7IVvO0BqqnQegWI89tnQsVxWy6IsfIpjlpIQGbfcdr7-oom3EtSIGeP_Sb&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQO79u3bnXj-LIKfMLZAsmbp1w3LWgzdeA0xCGAeqrQ6Gw&oe=6AC0CB3D",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829447391_1393864342515736_335454752712768015_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tm-DUZlKgDkQ7kNvwEmOTNY&_nc_oc=Adrbv8Ol4ixjQpsVxV5fprhZ0-wDy3--KnwYrQ1e9hddfqf4-oqJL6reIsZny8zy-h4PfgY2E7yRmA1XDwA2yagM&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOiXLQwDnHU8XFnVg8yaIKt6Cl55JntIbPz3yzFKPIGfQ&oe=6AC0BF11",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828539147_1080339211643440_2486148175511836363_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fpm0hMQ7hN0Q7kNvwHryaAp&_nc_oc=Adro9r2hnTNkBdP3zfRE0OwH0KUYOtG2KP38xZTPr5uvhoczx88v7nkYINhuyCm8AQYFZvbEbf1-v4FzqDXLIGew&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPqf6gjFjBetNHM35igAMW9Kj6jgMftPN0s6Za48Czr9g&oe=6AC0B8C3",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827513522_2514082635764497_7376017223175132270_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yZ9lEjdzK8IQ7kNvwHBm12P&_nc_oc=AdpPgZ6JUco_9UzjY_ENDcpE1VA76h1zLTzdH1VxwGnIq7mDolejxZvqJsxs9fN3U7jzCZGR90UniuL389gZnnLg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNQLTAOBCO2rvySD6_Ntlxp3xtRyrBjRP6oEpyksEBSoQ&oe=6AC0A6FF",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828842962_1972374113330177_8133858357631769569_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H2UDSeeP4E8Q7kNvwEiwtWR&_nc_oc=AdqbdiMZYb9GNp-u3V8AYFRerw-ft1Ovw7oeMF4OeFEIc8hZJ2n-kjkQPt2pbtQVbW1DP5Dz55qVB9a-SHxh0xsH&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOiUKuZD4dTy_l_JI8NVPKcNSG2D3naaF4uYzEF17m73Q&oe=6AC0A5D7",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828345647_3197481990422105_1658449333524019538_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=awzlnIPWn5YQ7kNvwEhWaXV&_nc_oc=AdrpLRFoL_Z01iGhpscHVSyUQ-ZyXYeyGkUaT3Cw0zStRJQ0UsWDY5Es9nTfrf1cll1nwARtxzEqtucPXobh-HR2&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPKRtBRg3-1PmluZWFcynfdVpW7BLVZL2wZ3FYziRTBkQ&oe=6AC0C767",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829868774_2978819779123965_8462991220217482023_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3TmyMX4Kx98Q7kNvwFngEIn&_nc_oc=AdqH2OVdc-4vjHnRVcnC3Uy6ho89gGDfDyON00fLmjEv5CX5TN3DQO5MtbKR0aCjXlj67PGR1ZQwCyMhdNXPlLIT&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQO8isAmXq8WarSCrbCRQe4mW62USBY4K1KA86UHP8oxwg&oe=6AC0A682",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828714777_1594879152186052_4992807677621070994_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=975ZuYQN1Y0Q7kNvwHZ9eCk&_nc_oc=AdoJaOwzd6IQQtThjQMcXiyvMlWu1RCwiXh3dvzj1LM-2JGEGASIcEfCbYSHs8CmLxuj2y2gwrnfepVdrHOaj3Bl&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNPfBIJlDBYfRcOvaqOPNA7tzccGaPtWPkjRgyP5ub4Vw&oe=6AC0AAF1",
+          "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/826682499_28656631837304522_8395832747863001476_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=opWDZRCNfzQQ7kNvwF57ove&_nc_oc=AdrZhY2nPFP68PkhAidduBECqMIp7pvWuDz8E7vTZrqaVLHBCecsAukZ6pifiGuGmT6YUTw4TXupYOGutWng1NLC&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOKuN22HHI2lD61-Oya47CmF5GCjGO2fw8sdT9BSwE8rQ&oe=6AC0B7BF"
+        ]
+      },
+      "pageCategories": [
+        "Pharmacy"
+      ],
+      "raw": {
+        "ad_archive_id": "1141092828591129",
+        "collation_count": 1,
+        "collation_id": "1572402510864928",
+        "is_active": true,
+        "page_id": "201659576542913",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "201659576542913",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.facebook.com/drogariavenancio/",
+          "root_reshared_post": null,
+          "byline": "",
+          "disclaimer_label": null,
+          "page_name": "Drogaria Venancio",
+          "page_profile_picture_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/830236684_1826406788352627_3051137631397136567_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oukd0wUsW04Q7kNvwED7LAU&_nc_oc=Adp1gkZPkD88CDhBtgpinUNc10cMcjIqY-z79mgNWOlyDmDno-HB3aVCc4ZSsyXLP_JSqp-w0hX9kwVozzZKMRxT&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPxhRuka1vK1mo5xRMWGq3hW2q6v2juUinU8RdHgRrLjQ&oe=6AC0B4F1",
+          "event": null,
+          "caption": "https://www.drogariavenancio.com.br/ofertas",
+          "cta_text": "Shop now",
+          "cards": [
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/ofertas",
+              "title": "Concorra a vales e BYD Zero",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827311657_1610465200730772_2064223806622267766_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yAjR2pXTxGUQ7kNvwFgHR5R&_nc_oc=Adpj8q4VMTlMxrA4y2AqBMyt3N3fMaIYCgIaZhGDDhroAIb9vGTjWARvv_IFiFe2dg0YzwEsGh2Ha-Cswdfhq8nC&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOI_bK8Q83qI60uhKwsIOmr5kfdKJK7Q-aF-UDWbZDu3g&oe=6AC0BE42",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828483385_1129232413376595_8528691523560483839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FwxfzMMwIx0Q7kNvwGDYw2j&_nc_oc=Adp_DT5m0haHkueHndOsO6yaf9O6ZfXWFvRIQmKEim7XzSxUGejj234sanHXh6DUJh52k0Jct8S4bauYYXFun9Q4&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOj1rq1tBNwU9NZblZDtNwtdOxVdPsUvdAyTsRQGcKH8g&oe=6AC0C85C",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/papel-hig-cotton-ext-soft-deluxe-l12p11/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340839_1443861864269365_8750694456098658438_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ST8hkZlEY5kQ7kNvwFEwFMh&_nc_oc=AdoljdF2hYbkC-ODnieIPPlWI1TAsDCweA_vv3bDj8zCF2wPdA1Rx3o6KZr03l2mAJkXmB6o4ISFdgRBa_y5vlIf&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPyLhlwLEqUj5lFJrg39gE4tuLNi3dARM3lZ6r5YWK8VQ&oe=6AC0C426",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828365394_1651189500048753_8277551608483038721_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GCNfyTDT8J0Q7kNvwFp0Yln&_nc_oc=Adpd-wCSAeYk-hpu3B_VZVt3ePtjWAr5VBhu86-1jrrXtKlQlMbulStDpfZZbNODJx1WHH5wW2UdDGOmZwd4JtDS&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOk7HyGnRU5XZBF7if2HDC1Nep_Ap28DtiNLJBskTjiRA&oe=6AC0A48F",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/fralda-huggies-maxima-protecao-xg-58-unidades/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829250487_1611710290355847_1134278900618505687_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cb6F9XmE6OwQ7kNvwFKGhzZ&_nc_oc=AdqJJsh9yIYimKII8TxDadIvqffSVLENx1UP0bh7GY1DBfbMRln-wr_fYNaVsGdLUpv0ccveZgDIdliMBEkOCnPk&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNBHa4LwLK1pkSf7q3PEJqz0_EnZj7d0GbCzeJV5fqySw&oe=6AC0BE14",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/825340779_1653705926357732_3827986376293066824_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ZIkjStftpkQ7kNvwGYLE1B&_nc_oc=AdoxBeyP5U3nRVSJmMFKWu3B5itR0f9OJMiGr8QCU_bNtlMuGqeQmc5JypKqefVUNVonoO7D8LaL9Dd0OZKRKdRM&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNiTLl6aEJVKa2DB1CgZFJmQ9AHmUDMpYBwvG__G2CHsA&oe=6AC0AB9B",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/gel-ultra-leve-eucerin-hyaluron-filler-daily-booster---repair-50ml/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829290451_3113216035542045_2460082333180973122_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3S7AhugfaLQQ7kNvwHsK2I2&_nc_oc=Adpq_tnkQU_IJWnQU7bGHSMyW0gZoFBHne_Gj0G3wC4bYFjlHN2d8rre1P_S_YAwm3bk_LlZOmdD5p523ORzB6CG&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNkr7yS6hiUG41-Gr6RJq4TwjQ_wEs6S7HJeAFInlz8lg&oe=6AC0C585",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829976157_1638195238017358_3634618290701193180_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CkEcUxVN_h8Q7kNvwGNx8h5&_nc_oc=Ado1ux7mDXFJSTHHM49N7a5hTdnZEEmQ4SJpX_sMzer0be5XfDQwPphnvHc1qdZt2CgzqmeuFQqI2Sw-YEPqSDCC&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQP2d_eGKh7HP8lWQSHEamjWDR1ECUADz11BNhRFTY5MXg&oe=6AC0BBCD",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/suplemento-alimentar-nutridrink-protein-senior-po-chocolate-750g/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829075658_2318940802249303_3343227416553509868_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zcbBkugpNyUQ7kNvwHL92Sc&_nc_oc=AdrdxAJjAXlejH4n8RwTqZS9x1xOApA6MplY9c6NeY_5RP-Fbw3SPMG3MWWrmFLp0TkDDTWPGWU_lAH_jOosg_ky&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQN6MrPF84ocMmnCsRpF1Bu7J0NpGknjev44CeYdmk-lCw&oe=6AC0A605",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828714760_2350246969081681_1091637895645775813_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L_ZchNQvVE0Q7kNvwHtOyG6&_nc_oc=Ado34fmjFEQ8OkMaEtmp3AHxrGSrSU304Rf0B073UUk2Ieirug9LPHhUlZYvcZmWi2D6loOYbW8AI9yaeJdEkygx&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPGUWP2ybOvlgDnfy3AjtORB_GPFlZFOsiErzb26bE33Q&oe=6AC0CC77",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/creatina-equaliv-300g/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829075658_949124761588049_6551443148933035372_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eCI7Ng1eVs0Q7kNvwFAUwC-&_nc_oc=Adr78f7vn2N_jpcmHLOKo6a_ncZDyJ9A4tJyR6OWmm9b9stb2LyOEjw4tG0MHjunhDWSIHupoqFKCccxTvsRP4eB&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOquYIsxm3uLkn3NqepNJTCGPRM-NQgJES5KiHSpjrjgQ&oe=6AC0B64D",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827231268_1648832850006326_8145335895500588438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9fJY0IuRgHsQ7kNvwHXyVKO&_nc_oc=Adr9DPj2VYvrhI0fVsYAgSIcOOqaQX7IVvO0BqqnQegWI89tnQsVxWy6IsfIpjlpIQGbfcdr7-oom3EtSIGeP_Sb&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQO79u3bnXj-LIKfMLZAsmbp1w3LWgzdeA0xCGAeqrQ6Gw&oe=6AC0CB3D",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/tintura-wella-soft-color-natural-60---louro-escuro/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829447391_1393864342515736_335454752712768015_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tm-DUZlKgDkQ7kNvwEmOTNY&_nc_oc=Adrbv8Ol4ixjQpsVxV5fprhZ0-wDy3--KnwYrQ1e9hddfqf4-oqJL6reIsZny8zy-h4PfgY2E7yRmA1XDwA2yagM&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOiXLQwDnHU8XFnVg8yaIKt6Cl55JntIbPz3yzFKPIGfQ&oe=6AC0BF11",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828539147_1080339211643440_2486148175511836363_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fpm0hMQ7hN0Q7kNvwHryaAp&_nc_oc=Adro9r2hnTNkBdP3zfRE0OwH0KUYOtG2KP38xZTPr5uvhoczx88v7nkYINhuyCm8AQYFZvbEbf1-v4FzqDXLIGew&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPqf6gjFjBetNHM35igAMW9Kj6jgMftPN0s6Za48Czr9g&oe=6AC0B8C3",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/curativo-transparente-v--help-10-unidades/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/827513522_2514082635764497_7376017223175132270_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yZ9lEjdzK8IQ7kNvwHBm12P&_nc_oc=AdpPgZ6JUco_9UzjY_ENDcpE1VA76h1zLTzdH1VxwGnIq7mDolejxZvqJsxs9fN3U7jzCZGR90UniuL389gZnnLg&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNQLTAOBCO2rvySD6_Ntlxp3xtRyrBjRP6oEpyksEBSoQ&oe=6AC0A6FF",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828842962_1972374113330177_8133858357631769569_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H2UDSeeP4E8Q7kNvwEiwtWR&_nc_oc=AdqbdiMZYb9GNp-u3V8AYFRerw-ft1Ovw7oeMF4OeFEIc8hZJ2n-kjkQPt2pbtQVbW1DP5Dz55qVB9a-SHxh0xsH&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOiUKuZD4dTy_l_JI8NVPKcNSG2D3naaF4uYzEF17m73Q&oe=6AC0A5D7",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/bebida-lac-starbucks-frappuccino-cafe-mocha-280ml/p",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828345647_3197481990422105_1658449333524019538_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=awzlnIPWn5YQ7kNvwEhWaXV&_nc_oc=AdrpLRFoL_Z01iGhpscHVSyUQ-ZyXYeyGkUaT3Cw0zStRJQ0UsWDY5Es9nTfrf1cll1nwARtxzEqtucPXobh-HR2&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPKRtBRg3-1PmluZWFcynfdVpW7BLVZL2wZ3FYziRTBkQ&oe=6AC0C767",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829868774_2978819779123965_8462991220217482023_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3TmyMX4Kx98Q7kNvwFngEIn&_nc_oc=AdqH2OVdc-4vjHnRVcnC3Uy6ho89gGDfDyON00fLmjEv5CX5TN3DQO5MtbKR0aCjXlj67PGR1ZQwCyMhdNXPlLIT&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQO8isAmXq8WarSCrbCRQe4mW62USBY4K1KA86UHP8oxwg&oe=6AC0A682",
+              "watermarked_resized_image_url": ""
+            },
+            {
+              "body": " ",
+              "cta_type": "SHOP_NOW",
+              "caption": "https://www.drogariavenancio.com.br/ofertas",
+              "link_description": " ",
+              "link_url": "https://www.drogariavenancio.com.br/ofertas",
+              "title": " ",
+              "cta_text": "Shop Now",
+              "video_hd_url": null,
+              "video_preview_image_url": null,
+              "video_sd_url": null,
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null,
+              "image_crops": [],
+              "original_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/828714777_1594879152186052_4992807677621070994_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=975ZuYQN1Y0Q7kNvwHZ9eCk&_nc_oc=AdoJaOwzd6IQQtThjQMcXiyvMlWu1RCwiXh3dvzj1LM-2JGEGASIcEfCbYSHs8CmLxuj2y2gwrnfepVdrHOaj3Bl&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNPfBIJlDBYfRcOvaqOPNA7tzccGaPtWPkjRgyP5ub4Vw&oe=6AC0AAF1",
+              "resized_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/826682499_28656631837304522_8395832747863001476_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=opWDZRCNfzQQ7kNvwF57ove&_nc_oc=AdrZhY2nPFP68PkhAidduBECqMIp7pvWuDz8E7vTZrqaVLHBCecsAukZ6pifiGuGmT6YUTw4TXupYOGutWng1NLC&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQOKuN22HHI2lD61-Oya47CmF5GCjGO2fw8sdT9BSwE8rQ&oe=6AC0B7BF",
+              "watermarked_resized_image_url": ""
+            }
+          ],
+          "body": {
+            "text": "É do Rio. É do Rock. É Aniversário Venancio! A cada R$ 100 em compras, concorra a vales de até R$ 90 e a um BYD Zero."
+          },
+          "cta_type": "SHOP_NOW",
+          "display_format": "CAROUSEL",
+          "link_description": null,
+          "link_url": "https://www.drogariavenancio.com.br/ofertas",
+          "images": [],
+          "page_categories": [
+            "Pharmacy"
+          ],
+          "page_like_count": 111924,
+          "title": "Drogaria Venancio",
+          "videos": [],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "Drogaria Venancio",
+        "impressions_with_index": {
+          "impressions_text": "<100",
+          "impressions_index": 0
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 10587,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    },
+    {
+      "id": "4305347466395720",
+      "pageName": "drjohnsonsuplementosbetim",
+      "pageId": "1170081306199073",
+      "pageProfileUri": "https://www.instagram.com/_u/drjohnsonsuplementosbetim",
+      "pageProfilePicture": "https://scontent-dub4-1.cdninstagram.com/v/t51.82787-19/777916383_18086242988318322_3285002460449217742_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=2MdUiU0R1JkQ7kNvwEj0uvP&_nc_oc=Ado4QiOzvSSll7_DPbj0ZPxblyAMDmjnpAM5t7XwWxE9dB3zjByrogqkiHsYd5rhOmJiLp4ap9j60lLR_UWJC_VV&_nc_zt=24&_nc_ht=scontent-dub4-1.cdninstagram.com&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPv3idg8I2nCRVQ7bdniGJp4x1umb1KQTwBKroxwg5kcA&oe=6AC0B2FB",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "isActive": true,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "primaryText": "🎉🔥 14 ANOS DE DR. JOHNSON! 🔥🎉\n\n14 anos não são apenas uma data… são 14 anos de histórias, desafios, conquistas e milhares de pessoas que confiaram em nós! ❤️🖤\n\nComeçamos com um sonho e, com muito trabalho, dedicação e a graça de Deus, chegamos até aqui. 🙏\n\nHoje, quem merece os parabéns é VOCÊ, que faz parte dessa história! 🫶\n\n💥 E para comemorar, preparamos condições especiais, novidades e aquele preço que você já conhece! Será nos dias 02 e 03 de outubro!! Venha e traga seus amigos!\n\n🎁 O aniversário é nosso, mas o presente é seu!\n\nObrigado por fazer parte dos nossos 14 anos de história.\nE pode ter certeza: ainda temos muitos capítulos para escrever juntos! 🚀\n\n❤️🖤 DR. JOHNSON — 14 ANOS CUIDANDO DE VOCÊ!\n\n#DrJohnson #14Anos #AniversárioDrJohnson #Suplementação #SaúdeEBemEstar Gratidão 14AnosDeHistória OAniversárioÉNosso OPresenteÉSeu",
+      "caption": "instagram.com",
+      "ctaText": "Visit Instagram profile",
+      "ctaType": "VIEW_INSTAGRAM_PROFILE",
+      "landingPageUrl": "https://instagram.com/drjohnsonsuplementosbetim",
+      "adSnapshotUrl": "https://www.facebook.com/ads/library/?id=4305347466395720",
+      "media": {
+        "type": "video",
+        "urls": [
+          "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPNRsbkhBObxj7tj6EEL0NB4Hl2jKB-dncyv8D3ZI9kvOSrNb1cVORXJWRewqHutkIyNxHMqPRddwG8qKgAMT_I9lUhUOwJhytga_dpWw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=57F9rt8INn0Q7kNvwHSBE0i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDY3NDkzMDM1NDM2MjM4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjcyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQPqCs5oforKikqY8TVGbtnxTAX0lb7LVwf2rPjoY73s5Q&oe=6AC0CC70"
+        ],
+        "thumbnailUrl": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829196412_1649405489883718_4517204024191719009_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xOfG5YJoiTMQ7kNvwEANjEp&_nc_oc=AdrzIZkCCqdTd-3WXLnqLLNIYNPY9fVv48vhB7mBpIcJpl6xyLwvQNsUWavrY8PEVJkQNAj-k6K5GorJs5oIVJ3O&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNWV0cakMmFh7QcCrLiXzDCdc_UBCBkdMilQ2ldi9UFew&oe=6AC0AA80",
+        "videoUrl": "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPNRsbkhBObxj7tj6EEL0NB4Hl2jKB-dncyv8D3ZI9kvOSrNb1cVORXJWRewqHutkIyNxHMqPRddwG8qKgAMT_I9lUhUOwJhytga_dpWw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=57F9rt8INn0Q7kNvwHSBE0i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDY3NDkzMDM1NDM2MjM4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjcyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQPqCs5oforKikqY8TVGbtnxTAX0lb7LVwf2rPjoY73s5Q&oe=6AC0CC70"
+      },
+      "pageCategories": [
+        "Profile"
+      ],
+      "raw": {
+        "ad_archive_id": "4305347466395720",
+        "collation_count": 1,
+        "collation_id": "4743842772607201",
+        "is_active": true,
+        "page_id": "1170081306199073",
+        "page_is_deleted": false,
+        "snapshot": {
+          "branded_content": null,
+          "page_id": "1170081306199073",
+          "page_is_deleted": false,
+          "page_profile_uri": "https://www.instagram.com/_u/drjohnsonsuplementosbetim",
+          "root_reshared_post": null,
+          "byline": null,
+          "disclaimer_label": null,
+          "page_name": "drjohnsonsuplementosbetim",
+          "page_profile_picture_url": "https://scontent-dub4-1.cdninstagram.com/v/t51.82787-19/777916383_18086242988318322_3285002460449217742_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=2MdUiU0R1JkQ7kNvwEj0uvP&_nc_oc=Ado4QiOzvSSll7_DPbj0ZPxblyAMDmjnpAM5t7XwWxE9dB3zjByrogqkiHsYd5rhOmJiLp4ap9j60lLR_UWJC_VV&_nc_zt=24&_nc_ht=scontent-dub4-1.cdninstagram.com&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQPv3idg8I2nCRVQ7bdniGJp4x1umb1KQTwBKroxwg5kcA&oe=6AC0B2FB",
+          "event": null,
+          "caption": "instagram.com",
+          "cta_text": "Visit Instagram profile",
+          "cards": [],
+          "body": {
+            "text": "🎉🔥 14 ANOS DE DR. JOHNSON! 🔥🎉\n\n14 anos não são apenas uma data… são 14 anos de histórias, desafios, conquistas e milhares de pessoas que confiaram em nós! ❤️🖤\n\nComeçamos com um sonho e, com muito trabalho, dedicação e a graça de Deus, chegamos até aqui. 🙏\n\nHoje, quem merece os parabéns é VOCÊ, que faz parte dessa história! 🫶\n\n💥 E para comemorar, preparamos condições especiais, novidades e aquele preço que você já conhece! Será nos dias 02 e 03 de outubro!! Venha e traga seus amigos!\n\n🎁 O aniversário é nosso, mas o presente é seu!\n\nObrigado por fazer parte dos nossos 14 anos de história.\nE pode ter certeza: ainda temos muitos capítulos para escrever juntos! 🚀\n\n❤️🖤 DR. JOHNSON — 14 ANOS CUIDANDO DE VOCÊ!\n\n#DrJohnson #14Anos #AniversárioDrJohnson #Suplementação #SaúdeEBemEstar Gratidão 14AnosDeHistória OAniversárioÉNosso OPresenteÉSeu"
+          },
+          "cta_type": "VIEW_INSTAGRAM_PROFILE",
+          "display_format": "VIDEO",
+          "link_description": null,
+          "link_url": "https://instagram.com/drjohnsonsuplementosbetim",
+          "images": [],
+          "page_categories": [
+            "Profile"
+          ],
+          "page_like_count": 0,
+          "title": null,
+          "videos": [
+            {
+              "video_hd_url": "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPNRsbkhBObxj7tj6EEL0NB4Hl2jKB-dncyv8D3ZI9kvOSrNb1cVORXJWRewqHutkIyNxHMqPRddwG8qKgAMT_I9lUhUOwJhytga_dpWw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=57F9rt8INn0Q7kNvwHSBE0i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDY3NDkzMDM1NDM2MjM4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjcyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQPqCs5oforKikqY8TVGbtnxTAX0lb7LVwf2rPjoY73s5Q&oe=6AC0CC70",
+              "video_preview_image_url": "https://scontent-dub4-1.xx.fbcdn.net/v/t39.35426-6/829196412_1649405489883718_4517204024191719009_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xOfG5YJoiTMQ7kNvwEANjEp&_nc_oc=AdrzIZkCCqdTd-3WXLnqLLNIYNPY9fVv48vhB7mBpIcJpl6xyLwvQNsUWavrY8PEVJkQNAj-k6K5GorJs5oIVJ3O&_nc_zt=14&_nc_ht=scontent-dub4-1.xx&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&oh=00_AQNWV0cakMmFh7QcCrLiXzDCdc_UBCBkdMilQ2ldi9UFew&oe=6AC0AA80",
+              "video_sd_url": "https://video-dub4-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNqJAURpg3YqfRhsKoq8l-DqB6SS2CjxoRlBxsOaXd9DlGQbo7WMMspQbMiB9ydKcq5T8_H39_JWVrccJP24X5HJ-NtzccmJ6A00V1cFA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-dub4-1.xx.fbcdn.net&_nc_ohc=6brg8cdTsgkQ7kNvwEreF5Z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNDY3NDkzMDM1NDM2MjM4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjcyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=sCMZdqLJnXdyhbpRpzdQ2g&_nc_ss=7d289&_nc_zt=28&oh=00_AQOAZUXA8b7207ZaEG6m6NPrExSEBDNVha-riNGAIP5_dg&oe=6AC096A9",
+              "watermarked_video_hd_url": null,
+              "watermarked_video_sd_url": null
+            }
+          ],
+          "is_reshared": false,
+          "extra_links": [],
+          "extra_texts": [],
+          "extra_images": [],
+          "extra_videos": [],
+          "country_iso_code": null,
+          "brazil_tax_id": null,
+          "additional_info": null,
+          "ec_certificates": []
+        },
+        "has_user_reported": false,
+        "report_count": null,
+        "menu_items": [],
+        "state_media_run_label": null,
+        "page_name": "drjohnsonsuplementosbetim",
+        "impressions_with_index": {
+          "impressions_text": null,
+          "impressions_index": -1
+        },
+        "gated_type": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "is_aaa_eligible": false,
+        "contains_digital_created_media": false,
+        "reach_estimate": null,
+        "currency": "",
+        "spend": null,
+        "end_date": 1790578800,
+        "publisher_platform": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "start_date": 1790578800,
+        "contains_sensitive_content": false,
+        "total_active_time": 11635,
+        "regional_regulation_data": {
+          "finserv": {
+            "is_deemed_finserv": false,
+            "is_limited_delivery": false
+          },
+          "tw_anti_scam": {
+            "is_limited_delivery": false
+          }
+        },
+        "hide_data_status": "NONE",
+        "fev_info": null,
+        "ad_id": null,
+        "targeted_or_reached_countries": []
+      }
+    }
+  ]
+}
