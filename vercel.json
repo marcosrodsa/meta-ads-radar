@@ -1,14 +1,17 @@
 {
   "version": 2,
+  "buildCommand": "",
+  "outputDirectory": ".",
   "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
+  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        {
-          "key": "Referrer-Policy",
-          "value": "no-referrer"
-        }
+        { "key": "Referrer-Policy", "value": "no-referrer" },
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
       ]
     }
   ]
